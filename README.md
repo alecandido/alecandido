@@ -10,7 +10,6 @@ computer science.
 At the present time I'm a PhD student at the [University of
 Milan](https://www.unimi.it/en) .
 
-
 <p align="center">
   <a href="https://www.unimi.it/en">
     <img
@@ -19,6 +18,10 @@ Milan](https://www.unimi.it/en) .
         height="80em"
       />
   </a>
+  <img
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
+      width="80em"
+    />
   <a href="https://www.mi.infn.it/it/">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/infn_logo.png"
@@ -39,6 +42,10 @@ a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
         style="padding-right: 100em;"
       />
   </a>
+  <img
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
+      width="80em"
+    />
   <a href="https://erc.europa.eu/">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/erc_logo1.png"

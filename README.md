@@ -10,28 +10,29 @@ Milan](https://www.unimi.it/en), a member of the
 [N3PDF](http://n3pdf.mi.infn.it/) team, and of the
 [NNPDF](http://nnpdf.mi.infn.it/) collaboration.
 
-<div style="display: table;">
-  <div style="display: block; width: 30%; padding: 5px;">
+<div style="display: flex;">
+  <div style="flex: 33.33%; padding: 5px;">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
         alt="University of Milan"
       />
   </div>
-  <div style="display: block; width: 30%; padding: 5px;">
+  <div style="flex: 33.33%; padding: 5px;">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
         alt="INFN"
       />
   </div>
 </div>
-<div style="display: table;">
-  <div style="display: block; width: 30%; padding: 5px;">
+
+<div style="display: flex;">
+  <div style="flex: 33.33%; padding: 5px;">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
         alt="N3PDF"
       />
   </div>
-  <div style="display: block; width: 30%; padding: 5px;">
+  <div style="flex: 33.33%; padding: 5px;">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
         alt="NNPDF"

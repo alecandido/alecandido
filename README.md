@@ -5,9 +5,25 @@ computer science.
 
 ## Current Position
 
-At the present time I'm a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
-and the [NNPDF](http://n3pdf.mi.infn.it/) collaboration.
+At the present time I'm a PhD student at the [University of
+Milan](https://www.unimi.it/en), a member of the
+[N3PDF](http://n3pdf.mi.infn.it/) team, and of the
+[NNPDF](http://nnpdf.mi.infn.it/) collaboration.
 
+<div style="display: table;">
+  <div style="display: block; width: 30%; padding: 5px;">
+    <img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+        alt="University of Milan"
+      />
+  </div>
+  <div style="display: block; width: 30%; padding: 5px;">
+    <img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+        alt="INFN"
+      />
+  </div>
+</div>
 <div style="display: table;">
   <div style="display: block; width: 30%; padding: 5px;">
     <img
@@ -18,7 +34,7 @@ and the [NNPDF](http://n3pdf.mi.infn.it/) collaboration.
   <div style="display: block; width: 30%; padding: 5px;">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
-        alt="N3PDF"
+        alt="NNPDF"
       />
   </div>
 </div>

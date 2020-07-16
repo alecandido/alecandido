@@ -3,6 +3,8 @@
 I'm a theoretical physicist, working in HEP, with a passion for coding and
 computer science.
 
+- Personal Website [:earth_africa:](http://alecandido.github.io)
+
 ## Current Position
 
 At the present time I'm a PhD student at the [University of
@@ -14,10 +16,12 @@ Milan](https://www.unimi.it/en), a member of the
   <img
       src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
       alt="University of Milan"
+      width="25%"
     />
   <img
       src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
       alt="INFN"
+      width="25%"
     />
 </p>
 
@@ -25,15 +29,19 @@ Milan](https://www.unimi.it/en), a member of the
   <img
       src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
       alt="N3PDF"
+      width="25%"
     />
   <img
       src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
       alt="NNPDF"
+      width="25%"
   />
 </p>
 
 ## Academic Code Projects
 
-## PhD
+### PhD
 
-## Master Thesis
+### Master Thesis
+
+## Code Skills

@@ -8,11 +8,23 @@ computer science.
 At the present time I'm a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
 and the [NNPDF](http://n3pdf.mi.infn.it/) collaboration.
 
-<div>
-<img
-    src="assets/n3pdf_logo.png"
-    alt="N3PDF"
-    style="display: block; margin-left: auto; margin-right: auto;"
-    width="50%"
-  />
+<div style="display: table;">
+  <div style="display: block; width: 30%; padding: 5px;">
+    <img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+        alt="N3PDF"
+      />
+  </div>
+  <div style="display: block; width: 30%; padding: 5px;">
+    <img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+        alt="N3PDF"
+      />
+  </div>
 </div>
+
+## Academic Code Projects
+
+## PhD
+
+## Master Thesis

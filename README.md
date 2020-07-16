@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro
 
-I'm a theoretical physicist, working in HEP, with a passion for coding and
+I'm Alessandro Candido, a theoretical physicist working in HEP, with a passion for coding and
 computer science.
 
 - Personal Website [:earth_africa:](http://alecandido.github.io)
@@ -39,7 +39,6 @@ a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
         alt="N3PDF"
         height="80em"
-        style="padding-right: 100em;"
       />
   </a>
   <img
@@ -71,6 +70,32 @@ and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.
 
 ### PhD
 
+<p align="center">
+  <a href="http://n3pdf.github.io/yadism">
+    <img
+        src="https://raw.githubusercontent.com/N3PDF/yadism/master/docs/logo/logo.png"
+        alt="yadism"
+        height="120em"
+      />
+  </a>
+  <img
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
+      width="40em"
+    />
+  <a href="https://github.com/N3PDF/yadism">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=yadism" />
+  </a>
+</p>
+
 ### Master Thesis
 
+<p align="center">
+  <a href="https://github.com/AleCandido/CDT_2D">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alecandido&repo=cdt_2d" />
+  </a>
+</p>
+
 ## Code Skills
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->

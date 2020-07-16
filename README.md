@@ -25,7 +25,7 @@ Milan](https://www.unimi.it/en) .
 a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
 <p>
   <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_badge.png"
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
       alt="N3PDF"
       height="5em"
     />
@@ -38,7 +38,7 @@ a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
 and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration
 <p>
   <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_badge.png"
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_logo.png"
       alt="NNPDF"
       height="5em"
   />

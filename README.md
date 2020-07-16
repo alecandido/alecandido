@@ -14,12 +14,12 @@ Milan](https://www.unimi.it/en), a member of the
 
 <p>
   <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unimi_banner.png"
       alt="University of Milan"
       width="25%"
     />
   <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/infn_logo.png"
       alt="INFN"
       width="25%"
     />
@@ -27,12 +27,12 @@ Milan](https://www.unimi.it/en), a member of the
 
 <p>
   <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_badge.png"
       alt="N3PDF"
       width="25%"
     />
   <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_badge.png"
       alt="NNPDF"
       width="25%"
   />

@@ -8,60 +8,60 @@ computer science.
 ## Current Position
 
 At the present time I'm a PhD student at the [University of
-Milan](https://www.unimi.it/en) .
+Milan](https://www.unimi.it/en),
+a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
+and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.
 
 <p align="center">
   <a href="https://www.unimi.it/en">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unimi_banner.png"
         alt="University of Milan"
-        height="80em"
+        height="60em"
       />
   </a>
   <img
       src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="80em"
+      width="40em"
     />
   <a href="https://www.mi.infn.it/it/">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/infn_logo.png"
         alt="INFN"
-        height="80em"
-      />
-  </a>
-</p>
-
-a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
-
-<p align="center">
-  <a href="http://n3pdf.mi.infn.it/">
-    <img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
-        alt="N3PDF"
-        height="80em"
+        height="60em"
       />
   </a>
   <img
       src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="80em"
+      width="40em"
     />
-  <a href="https://erc.europa.eu/">
+  <a href="http://n3pdf.mi.infn.it/">
     <img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/erc_logo1.png"
-        alt="ERC"
-        height="80em"
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
+        alt="N3PDF"
+        height="60em"
       />
   </a>
-</p>
-
-and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.
-
-<p align="center">
+  <!--<img-->
+      <!--src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"-->
+      <!--width="40em"-->
+    <!--/>-->
+  <!--<a href="https://erc.europa.eu/">-->
+    <!--<img-->
+        <!--src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/erc_logo1.png"-->
+        <!--alt="ERC"-->
+        <!--height="60em"-->
+      <!--/>-->
+  <!--</a>-->
+  <img
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
+      width="40em"
+    />
   <a href="http://nnpdf.mi.infn.it/">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_logo.png"
         alt="NNPDF"
-        height="50em"
+        height="30em"
       />
   </a>
 </p>

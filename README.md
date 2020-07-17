@@ -5,6 +5,9 @@ computer science.
 
 - Personal Website [:earth_africa:](http://alecandido.github.io)
 
+<details>
+  <summary> <b> Current Position </b> <i>(click to expand!)</i> </summary>
+
 ## Current Position
 
 At the present time I'm a PhD student at the [University of
@@ -66,6 +69,12 @@ and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.
   </a>
 </p>
 
+
+</details>
+
+<details>
+  <summary> <b> Academic Code Projects </b> <i>(click to expand!)</i> </summary>
+
 ## Academic Code Projects
 
 ### PhD
@@ -95,7 +104,14 @@ and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.
   </a>
 </p>
 
+</details>
+
+<details>
+  <summary> <b> Code Skills </b> <i>(click to expand!)</i> </summary>
+
 ## Code Skills
+
+</details>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true" />

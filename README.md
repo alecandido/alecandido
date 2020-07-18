@@ -6,7 +6,7 @@ computer science.
 - Personal Website [:earth_africa:](http://alecandido.github.io)
 
 <details>
-  <summary> <b> Current Position </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Current Position </b> </summary>
 
 ## Current Position
 
@@ -83,7 +83,7 @@ institutions:
 </details>
 
 <details>
-  <summary> <b> Academic Code Projects </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Academic Code Projects </b> </summary>
 
 ## Academic Code Projects
 
@@ -108,6 +108,25 @@ institutions:
 
 ### Master Thesis
 
+```yaml
+name: CDT 2D
+subject:
+  area: physics
+  topic: quantum gravity
+  approach: asymptotic safety
+description: |
+  explore the space of discrete space-times in Einstein gravity applying a
+  Markov Chain Monte Carlo approach, through the Metropolis-Hastings algorithm
+
+  the considered space is made by Triangulations, suitable to approximate a
+  generic space-time with a finite length scale (lattice spacing), with a
+  time-sliced structure (so they are called Causal)
+original: |
+  in this project a 2D simulation has been implemented, with an original
+  algorithm for gauge fields introduction (a U(1) gauge field is implemented,
+  the algorithm is directly generalizable to SU(2) and U(N))
+```
+
 <p align="center">
   <a href="https://github.com/AleCandido/CDT_2D">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alecandido&repo=cdt_2d" />
@@ -117,7 +136,7 @@ institutions:
 </details>
 
 <details>
-  <summary> <b> Code Skills </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Code Skills </b> </summary>
 
 ## Code Skills
 

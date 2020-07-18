@@ -1,4 +1,4 @@
-# Hi, I'm Alessandro <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unimi_banner.png" height="60em"/>
+# Hi, I'm Alessandro <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/psi.png" height="60em"/>
 
 I'm Alessandro Candido, a theoretical physicist working in HEP, with a passion for coding and
 computer science.

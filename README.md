@@ -3,7 +3,8 @@
 I'm Alessandro Candido, a theoretical physicist working in HEP, with a passion for coding and
 computer science.
 
-- Personal Website [:earth_africa:](http://alecandido.github.io)
+- Personal Website <a href="http://alecandido.github.io"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png" heigth="10em"/></a>
+- Email: <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/my-email.png" height="15em"/><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png" heigth="10em"/>
 
 <details>
   <summary> <b> Current Position </b> </summary>

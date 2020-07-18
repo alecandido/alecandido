@@ -10,10 +10,21 @@ computer science.
 
 ## Current Position
 
-At the present time I'm a PhD student at the [University of
-Milan](https://www.unimi.it/en),
-a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,
-and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.
+<!--At the present time I'm a PhD student at the [University of-->
+<!--Milan](https://www.unimi.it/en),-->
+<!--a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,-->
+<!--and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.-->
+
+```yaml
+position: PhD
+supervisor: S. Forte
+start_date: November, 2019
+institutions:
+  university: Università degli Studi di Milano
+  affiliation: INFN
+  team: N3PDF
+  collaboration: NNPDF
+```
 
 <p align="center">
   <a href="https://www.unimi.it/en">

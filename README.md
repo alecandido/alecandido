@@ -3,8 +3,8 @@
 I'm Alessandro Candido, a theoretical physicist working in HEP, with a passion for coding and
 computer science.
 
-- Personal Website <a href="http://alecandido.github.io"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png" height="35"/></a>
-- Contact me <a href="mailto:candido.ale@gmail.com"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png" height="20"/></a>
+- Personal Website &nbsp; <a href="http://alecandido.github.io"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png" height="30"/></a>
+- Contact me &nbsp; <a href="mailto:candido.ale@gmail.com"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png" height="20"/></a>
 
 <details>
   <summary> <b> Current Position </b> </summary>

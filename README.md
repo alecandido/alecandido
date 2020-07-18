@@ -83,6 +83,22 @@ institutions:
 </details>
 
 <details>
+  <summary> <b> Education </b> </summary>
+
+## Education
+
+```yaml
+- Unipi
+- SNS
+```
+
+Unipi logo
+
+SNS logo
+
+</details>
+
+<details>
   <summary> <b> Academic Code Projects </b> </summary>
 
 ## Academic Code Projects

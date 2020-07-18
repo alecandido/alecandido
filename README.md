@@ -97,6 +97,10 @@ and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.
 
 ## Code Skills
 
+<a href="https://alecandido.github.io">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/plane.gif" />
+</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true" />
 </a>

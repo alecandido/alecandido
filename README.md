@@ -89,6 +89,18 @@ institutions:
 
 ### PhD
 
+```yaml
+name: yadism - Yet Another DIS Module
+subject:
+  area: physics
+  topic: HEP - QCD
+supervisor: S. Forte
+collaborators:
+  - F. Hekhorn
+description: |
+  WIP
+```
+
 <p align="center">
   <a href="http://n3pdf.github.io/yadism">
     <img
@@ -114,6 +126,9 @@ subject:
   area: physics
   topic: quantum gravity
   approach: asymptotic safety
+supervisor: M. D'Elia
+collaborators:
+  - G. Clemente
 description: |
   explore the space of discrete space-times in Einstein gravity applying a
   Markov Chain Monte Carlo approach, through the Metropolis-Hastings algorithm

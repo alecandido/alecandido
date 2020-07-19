@@ -116,7 +116,7 @@ Diploma di Licenza:
 
 `(1)` Custom title by Scuola Normale Superiore, obtained by all the students that
 complete the full course; somewhat parallel to a MSc, more on the [SNS
-website](https://www.sns.it/it/scuola-normale-superiore/statuto-regolamenti-codice-etico)
+website](https://www.sns.it/it/scuola-normale-superiore/statuto-regolamenti-codice-etico)  
 `(2)` Final grade has been introduced in 2020 at SNS
 
 <p align="center">
@@ -124,18 +124,18 @@ website](https://www.sns.it/it/scuola-normale-superiore/statuto-regolamenti-codi
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unipi_banner.png"
         alt="University of Pisa"
-        height="60"
+        height="100"
       />
   </a>
   <img
       src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="40"
+      width="80"
     />
   <a href="https://www.sns.it/en">
     <img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/sns_banner.png"
         alt="Scuola Normale Superiore"
-        height="60"
+        height="100"
       />
   </a>
 </p>

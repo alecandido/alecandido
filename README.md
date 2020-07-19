@@ -89,13 +89,56 @@ institutions:
 ## Education
 
 ```yaml
-- Unipi
-- SNS
+Bachelor:
+  title: Bachelor of Science (BSc), Physics
+  university: University of Pisa (Unipi)
+  grade: 110 cum laude
+  start-date: September 2014
+  finish-date: June 2017
+
+Master:
+  title: Master of Science (MSc), Theoretical Physics
+  university: University of Pisa (Unipi)
+  grade: 110 cum laude
+  start-date: September 2017
+  finish-date: October 2019
+  thesis:
+    title: Simplicial quantum gravity with dynamical gauge fields
+    supervisor: M. D'Elia
+
+Diploma di Licenza:
+  title: Diploma di Licenza (1), Physics
+  institution: Scuola Normale Superiore (SNS)
+  grade: 100 cum laude (2)
+  start-date: September 2014
+  finish-date: July 2020
 ```
 
-Unipi logo
+`(1)` Custom title by Scuola Normale Superiore, obtained by all the students that
+complete the full course; somewhat parallel to a MSc, more on the [SNS
+website](https://www.sns.it/it/scuola-normale-superiore/statuto-regolamenti-codice-etico)
+`(2)` Final grade has been introduced in 2020 at SNS
 
-SNS logo
+<p align="center">
+  <a href="https://www.unipi.it/index.php/english">
+    <img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unipi_banner.png"
+        alt="University of Pisa"
+        height="60"
+      />
+  </a>
+  <img
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
+      width="40"
+    />
+  <a href="https://www.sns.it/en">
+    <img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/sns_banner.png"
+        alt="Scuola Normale Superiore"
+        height="60"
+      />
+  </a>
+</p>
 
 </details>
 

@@ -116,7 +116,7 @@ Diploma di Licenza:
 
 `(1)` Custom title by Scuola Normale Superiore, obtained by all the students that
 complete the full course; somewhat parallel to a MSc, more on the [SNS
-website](https://www.sns.it/it/scuola-normale-superiore/statuto-regolamenti-codice-etico)  
+website](https://www.sns.it/en/scuola-normale-superiore/statute-regulations-and-code-of-ethics)  
 `(2)` Final grade has been introduced in 2020 at SNS
 
 <p align="center">

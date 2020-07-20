@@ -215,6 +215,28 @@ original: |
 
 ## Code Skills
 
+### Data (with <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="20" /></a>)
+
+- calc: numpy, scipy, pandas, scikit-learn
+- viz: matplotlib, seaborn, holoviz, bokeh, plotly
+- speed: numba
+- more: jupyter
+
+### Web
+
+- front-end: html, css, js, react
+- back-end: django
+- native: react-native
+
+### System
+
+- os: arch, debian, ubuntu
+- shell: zsh, bash
+
+### Graphics
+
+- editor: inkscape, gimp
+
 </details>
 
 <p>

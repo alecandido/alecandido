@@ -215,17 +215,17 @@ original: |
 
 ## Code Skills
 
+### Languages
+
+- high level: <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>, <a href="https://developer.mozilla.org/it/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" /></a>, (below for shells)
+- low level: <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/c.png" height="20" /></a>, <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/cpp.png" height="20" /></a>, <a href="https://fortran-lang.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/fortran.png" height="20" /></a>
+
 ### Data (with <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>)
 
 - calc: <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numpy.png" height="20" /></a>, <a href="https://scipy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scipy.png" height="20" /></a>, <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pandas.png" height="20" /></a>, <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scikit-learn.png" height="20" /></a>
 - viz: <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/matplotlib.png" height="20" /></a>, <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/seaborn.png" height="20" /></a>, <a href="https://holoviz.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/holoviz.png" height="20" /></a>, <a href="https://bokeh.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bokeh.png" height="20" /></a>, <a href="https://plotly.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/plotly.png" height="20" /></a>
 - speed: <a href="https://numba.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numba.svg" height="20" /></a>
 - more: <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/jupyter.png" height="20" /></a>
-
-### Other Languages
-
-- high level: <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>, <a href="https://developer.mozilla.org/it/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" /></a>, (below for shells)
-- low level: <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/c.png" height="20" /></a>, <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/cpp.png" height="20" /></a>, <a href="https://fortran-lang.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/fortran.png" height="20" /></a>
 
 ### Web
 

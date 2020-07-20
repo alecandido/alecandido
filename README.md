@@ -237,6 +237,12 @@ original: |
 
 - editor: <a href="https://inkscape.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/inkscape.png" height="20" /></a>, <a href="https://www.gimp.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/gimp.png" height="20" /></a>
 
+### More
+
+- text: latex, readme
+- calc: mathematica(?)
+- if really needed... : windows, wsl, office
+
 </details>
 
 <p>

@@ -230,8 +230,8 @@ original: |
 
 ### System
 
-- os: arch, debian, ubuntu
-- shell: zsh, bash
+- os: <a href="https://www.archlinux.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/arch.png" height="20" /></a>, <a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/debian.png" height="20" /></a>, <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/ubuntu.png" height="20" /></a>
+- shell: <a href="https://en.wikipedia.org/wiki/Z_shell"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/zsh.png" height="16" /></a>, <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bash.png" height="20" /></a>
 
 ### Graphics
 
@@ -240,7 +240,7 @@ original: |
 ### More
 
 - text: <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/latex.png" height="20" /></a>, <a href="https://github.com/AleCandido/AleCandido/blob/master/README.md"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/readme.png" height="20" /></a>
-- calc: mathematica(?)
+- calc: <a href="https://www.wolfram.com/mathematica/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/mathematica.png" height="20" /></a> *(?)*
 - *if really needed...* : <a href="https://www.microsoft.com/en-us/windows/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/windows.png" height="20" /></a>, <a href="https://docs.microsoft.com/en-us/windows/wsl/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/wsl.png" height="20" /></a>, <a href="https://www.office.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/office.png" height="20" /></a>
 
 </details>

@@ -217,10 +217,10 @@ original: |
 
 ### Data (with <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>)
 
-- calc: <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numpy.png" height="20" /></a>, <a href="https://scipy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scipy.png" height="20" /></a>, <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pandas.png" height="20" /></a>, scikit-learn
-- viz: <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/matplotlib.png" height="20" /></a>, seaborn, holoviz, bokeh, plotly
-- speed: numba
-- more: jupyter
+- calc: <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numpy.png" height="20" /></a>, <a href="https://scipy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scipy.png" height="20" /></a>, <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pandas.png" height="20" /></a>, <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scikit-learn.png" height="20" /></a>
+- viz: <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/matplotlib.png" height="20" /></a>, <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/seaborn.png" height="20" /></a>, <a href="https://holoviz.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/holoviz.png" height="20" /></a>, <a href="https://bokeh.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bokeh.png" height="20" /></a>, <a href="https://plotly.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/plotly.png" height="20" /></a>
+- speed: <a href="https://numba.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numba.svg" height="20" /></a>
+- more: <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/jupyter.png" height="20" /></a>
 
 ### Other Languages
 

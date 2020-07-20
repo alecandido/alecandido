@@ -215,9 +215,9 @@ original: |
 
 ## Code Skills
 
-### Data (with <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="20" /></a>)
+### Data (with <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>)
 
-- calc: numpy, scipy, pandas, scikit-learn
+- calc: <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numpy.png" height="20" /></a>, scipy, pandas, scikit-learn
 - viz: matplotlib, seaborn, holoviz, bokeh, plotly
 - speed: numba
 - more: jupyter
@@ -235,7 +235,7 @@ original: |
 
 ### Graphics
 
-- editor: inkscape, gimp
+- editor: <a href="https://inkscape.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/inkscape.png" height="20" /></a>, <a href="https://www.gimp.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/gimp.png" height="20" /></a>
 
 </details>
 

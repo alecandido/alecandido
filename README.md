@@ -222,6 +222,11 @@ original: |
 - speed: numba
 - more: jupyter
 
+### Other Languages
+
+- low level: c, c++, fortran
+- high level: js, (look down for shells)
+
 ### Web
 
 - front-end: html, css, js, react
@@ -240,8 +245,8 @@ original: |
 ### More
 
 - text: <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/latex.png" height="20" /></a>, <a href="https://github.com/AleCandido/AleCandido/blob/master/README.md"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/readme.png" height="20" /></a>
-- calc: <a href="https://www.wolfram.com/mathematica/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/mathematica.png" height="20" /></a> *(?)*
-- *if really needed...* : <a href="https://www.microsoft.com/en-us/windows/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/windows.png" height="20" /></a>, <a href="https://docs.microsoft.com/en-us/windows/wsl/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/wsl.png" height="20" /></a>, <a href="https://www.office.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/office.png" height="20" /></a>
+- calc: <a href="https://www.wolfram.com/mathematica/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/mathematica.png" height="20" /></a> _(?)_
+- _if really needed..._ : <a href="https://www.microsoft.com/en-us/windows/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/windows.png" height="20" /></a>, <a href="https://docs.microsoft.com/en-us/windows/wsl/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/wsl.png" height="20" /></a>, <a href="https://www.office.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/office.png" height="20" /></a>
 
 </details>
 

@@ -217,8 +217,8 @@ original: |
 
 ### Data (with <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>)
 
-- calc: <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numpy.png" height="20" /></a>, scipy, pandas, scikit-learn
-- viz: matplotlib, seaborn, holoviz, bokeh, plotly
+- calc: <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numpy.png" height="20" /></a>, <a href="https://scipy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scipy.png" height="20" /></a>, <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pandas.png" height="20" /></a>, scikit-learn
+- viz: <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/matplotlib.png" height="20" /></a>, seaborn, holoviz, bokeh, plotly
 - speed: numba
 - more: jupyter
 
@@ -239,9 +239,9 @@ original: |
 
 ### More
 
-- text: latex, readme
+- text: <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/latex.png" height="20" /></a>, <a href="https://github.com/AleCandido/AleCandido/blob/master/README.md"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/readme.png" height="20" /></a>
 - calc: mathematica(?)
-- if really needed... : windows, wsl, office
+- *if really needed...* : <a href="https://www.microsoft.com/en-us/windows/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/windows.png" height="20" /></a>, <a href="https://docs.microsoft.com/en-us/windows/wsl/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/wsl.png" height="20" /></a>, <a href="https://www.office.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/office.png" height="20" /></a>
 
 </details>
 

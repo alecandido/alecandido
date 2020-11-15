@@ -3,9 +3,9 @@
 I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and computer science enthusiast.
 
 - Personal Website &nbsp; <a href="http://alecandido.github.io"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png" height="30"/></a>
-- Contact me &nbsp; <a href="mailto:candido.ale@gmail.com"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png" height="20"/></a>
-- Anime & Manga &nbsp; <a href="https://myanimelist.net/animelist/Annibale"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png" height="20"/></a>
-- Books &nbsp; <a href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png" height="20"/></a>
+- Contact me &nbsp; <a href="mailto:candido.ale@gmail.com"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png" height="30"/></a>
+- Anime & Manga &nbsp; <a href="https://myanimelist.net/animelist/Annibale"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png" height="30"/></a>
+- Books &nbsp; <a href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png" height="30"/></a>
 
 <details>
   <summary> <b> Current Position </b> </summary>

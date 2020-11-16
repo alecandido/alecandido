@@ -165,7 +165,7 @@ description: |
 <p align="center">
   <a href="http://n3pdf.github.io/yadism">
     <img
-        src="https://raw.githubusercontent.com/N3PDF/yadism/master/docs/logo/logo.png"
+        src="https://raw.githubusercontent.com/N3PDF/yadism/master/docs/_assets/logo/logo.png"
         alt="yadism"
         height="120"
       />

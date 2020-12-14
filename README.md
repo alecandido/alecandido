@@ -259,7 +259,7 @@ original: |
 <p>
 <a href="https://alecandido.github.io">
   <img
-     src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/plane.gif"
+     src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/plane-unscreen.gif"
      height="200"
      />
 </a>

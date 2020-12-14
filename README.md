@@ -165,7 +165,7 @@ description: |
 <p align="center">
   <a href="http://n3pdf.github.io/yadism">
     <img
-        src="https://raw.githubusercontent.com/N3PDF/yadism/master/docs/logo/logo.png"
+        src="https://raw.githubusercontent.com/N3PDF/yadism/master/docs/_assets/logo/logo.png"
         alt="yadism"
         height="120"
       />
@@ -176,6 +176,35 @@ description: |
     />
   <a href="https://github.com/N3PDF/yadism">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=yadism" />
+  </a>
+</p>
+
+```yaml
+name: eko - Evolution Kernel Operators
+subject:
+  area: physics
+  topic: HEP - QCD
+supervisor: S. Forte
+collaborators:
+  - F. Hekhorn
+description: |
+  WIP
+```
+
+<p align="center">
+  <a href="http://n3pdf.github.io/eko">
+    <img
+        src="https://raw.githubusercontent.com/N3PDF/eko/master/doc/source/img/Logo.png"
+        alt="eko"
+        height="120"
+      />
+  </a>
+  <img
+      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
+      width="40"
+    />
+  <a href="https://github.com/N3PDF/eko">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=eko" />
   </a>
 </p>
 

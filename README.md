@@ -218,7 +218,7 @@ original: |
 ### Languages
 
 - high level: <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>, <a href="https://developer.mozilla.org/it/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" /></a>, (below for shells)
-- low level: <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/c.png" height="20" /></a>, <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/cpp.png" height="20" /></a>, <a href="https://fortran-lang.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/fortran.png" height="20" /></a>
+- low level: <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/rust.png" height="20" /></a>, <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/c.png" height="20" /></a>, <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/cpp.png" height="20" /></a>, <a href="https://fortran-lang.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/fortran.png" height="20" /></a>
 
 ### Data (with <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>)
 

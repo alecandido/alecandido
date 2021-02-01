@@ -281,7 +281,7 @@ original: |
 - _if really needed..._ : <a href="https://www.microsoft.com/en-us/windows/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/windows.png" height="20" /></a> <a href="https://docs.microsoft.com/en-us/windows/wsl/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/wsl.png" height="20" /></a> <a href="https://www.office.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/office.png" height="20" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html" />
 </a>
 </details>
 

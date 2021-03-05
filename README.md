@@ -90,12 +90,12 @@ institutions:
 ## Education
 
 ```yaml
-Bachelor:
-  title: Bachelor of Science (BSc), Physics
-  university: University of Pisa (Unipi)
-  grade: 110 cum laude
+Diploma di Licenza:
+  title: Diploma di Licenza (1), Physics
+  institution: Scuola Normale Superiore (SNS)
+  grade: 100 cum laude (2)
   start-date: September 2014
-  finish-date: June 2017
+  finish-date: July 2020
 
 Master:
   title: Master of Science (MSc), Theoretical Physics
@@ -106,13 +106,13 @@ Master:
   thesis:
     title: Simplicial quantum gravity with dynamical gauge fields
     supervisor: M. D'Elia
-
-Diploma di Licenza:
-  title: Diploma di Licenza (1), Physics
-  institution: Scuola Normale Superiore (SNS)
-  grade: 100 cum laude (2)
+    
+Bachelor:
+  title: Bachelor of Science (BSc), Physics
+  university: University of Pisa (Unipi)
+  grade: 110 cum laude
   start-date: September 2014
-  finish-date: July 2020
+  finish-date: June 2017
 ```
 
 `(1)` Custom title by Scuola Normale Superiore, obtained by all the students that

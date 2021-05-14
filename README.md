@@ -268,7 +268,11 @@ original: |
 
 - front-end: <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/html.png" height="20" /></a> <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/css.png" height="20" /></a> <a href="https://bulma.io/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bulma.png" height="20" /></a> <a href="https://developer.mozilla.org/it/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" /></a> <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/react.png" height="20" /></a>
 - back-end: <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/django.png" height="20" /></a>
-- ssg: <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/next.png" height="20" /></a>
+- ssg: <a href="https://nextjs.org/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/next.png" height="20" />
+  </a> <a href="https://alephjs.org/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/aleph.svg" height="20" />
+  </a>
 
 ### System
 

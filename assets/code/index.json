@@ -1,0 +1,34 @@
+{
+  "c": {
+    "logo": "c.png",
+    "url": "https://en.wikipedia.org/wiki/C_(programming_language)"
+  },
+  "cpp": {
+    "logo": "cpp.png",
+    "url": "https://www.isocpp.org/"
+  },
+  "c++": "cpp",
+  "fortran": {
+    "logo": "fortran.png",
+    "url": "https://www.fortran-lang.org/"
+  },
+  "javascript": {
+    "logo": "javascript.png",
+    "url": "https://developer.mozilla.org/it/docs/Web/JavaScript"
+  },
+  "js": "javascript",
+  "py": "python",
+  "python": {
+    "logo": "python.png",
+    "url": "https://www.python.org/"
+  },
+  "rust": {
+    "logo": "rust.png",
+    "url": "https://www.rust-lang.org/"
+  },
+  "vim": {
+    "logo": "vim.png",
+    "url": "https://www.vim.org/"
+  },
+  "vimscript": "vim"
+}

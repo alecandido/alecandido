@@ -17,6 +17,11 @@
     "url": "https://developer.mozilla.org/it/docs/Web/JavaScript"
   },
   "js": "javascript",
+  "typescript": {
+    "logo": "typescript.png",
+    "url": "https://www.typescriptlang.org/"
+  },
+  "ts": "typescript",
   "py": "python",
   "python": {
     "logo": "python.png",

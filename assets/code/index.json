@@ -30,5 +30,57 @@
     "logo": "vim.png",
     "url": "https://www.vim.org/"
   },
-  "vimscript": "vim"
+  "vimscript": "vim",
+  "html": {
+    "logo": "html.png",
+    "url": "https://www.w3.org/html/"
+  },
+  "css": {
+    "logo": "css.png",
+    "url": "https://www.w3.org/TR/CSS/"
+  },
+  "sass": {
+    "logo": "sass.png",
+    "url": "https://sass-lang.com/"
+  },
+  "scss": "sass",
+  "node": {
+    "logo": "node.png",
+    "url": "https://nodejs.org/en/"
+  },
+  "nodejs": "node",
+  "node.js": "node",
+  "deno": {
+    "logo": "deno.svg",
+    "url": "https://deno.land/"
+  },
+  "styled-components": {
+    "logo": "styled-components.png",
+    "url": "https://styled-components.com/"
+  },
+  "bulma": {
+    "logo": "bulma.png",
+    "url": "https://bulma.io/"
+  },
+  "react": {
+    "logo": "react.png",
+    "url": "https://reactjs.org/"
+  },
+  "next": {
+    "logo": "next.png",
+    "url": "https://nextjs.org/"
+  },
+  "nextjs": "next",
+  "next.js": "next",
+  "aleph": {
+    "logo": "aleph.svg",
+    "url": "https://alephjs.org/"
+  },
+  "alephjs": "aleph",
+  "aleph.js": "aleph",
+  "github": {
+    "logo": "github.png",
+    "url": "https://github.com/"
+  },
+  "github-pages": "github"
 }

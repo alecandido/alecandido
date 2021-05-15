@@ -68,7 +68,8 @@
   },
   "next": {
     "logo": "next.png",
-    "url": "https://nextjs.org/"
+    "url": "https://nextjs.org/",
+    "filter": false
   },
   "nextjs": "next",
   "next.js": "next",
@@ -80,7 +81,8 @@
   "aleph.js": "aleph",
   "github": {
     "logo": "github.png",
-    "url": "https://github.com/"
+    "url": "https://github.com/",
+    "filter": false
   },
   "github-pages": "github"
 }

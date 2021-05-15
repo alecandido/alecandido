@@ -52,7 +52,8 @@
   "node.js": "node",
   "deno": {
     "logo": "deno.svg",
-    "url": "https://deno.land/"
+    "url": "https://deno.land/",
+    "filter": false
   },
   "styled-components": {
     "logo": "styled-components.png",

@@ -266,12 +266,36 @@ original: |
 
 ### Web
 
-- front-end: <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/html.png" height="20" /></a> <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/css.png" height="20" /></a> <a href="https://bulma.io/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bulma.png" height="20" /></a> <a href="https://developer.mozilla.org/it/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" /></a> <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/react.png" height="20" /></a>
-- back-end: <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/django.png" height="20" /></a>
-- ssg: <a href="https://nextjs.org/">
+- languages: <a href="https://www.w3.org/html/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/html.png" height="20" />
+  </a> <a href="https://www.w3.org/TR/CSS/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/css.png" height="20" />
+  </a> <a href="https://developer.mozilla.org/it/docs/Web/JavaScript">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" />
+  </a> <a href="https://www.typescriptlang.org/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/typescript.png" height="20" />
+  </a> 
+- tech: <a href="https://deno.land/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/deno.svg" height="20" />
+  </a> <a href="https://graphql.org/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/graphql.svg" height="20" />
+  </a> <a href="https://www.sqlite.org/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/sqlite.svg" height="20" />
+  </a> 
+- framework: <a href="https://reactjs.org/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/react.png" height="20" />
+  </a> <a href="https://nextjs.org/">
   <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/next.png" height="20" />
   </a> <a href="https://alephjs.org/">
   <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/aleph.svg" height="20" />
+  </a> <a href="https://styled-components.com/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/styled-components.png" height="20" />
+  </a> <a href="https://bulma.io/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bulma.png" height="20" />
+  </a> <a href="https://diesel.rs/">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/diesel.svg" height="20" />
+  </a> <a href="https://github.com/graphql-rust/juniper">
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/juniper.png" height="20" />
   </a>
 
 ### System

@@ -60,6 +60,14 @@
     "url": "https://deno.land/",
     "filter": false
   },
+  "sqlite": {
+    "logo": "sqlite.svg",
+    "url": "https://www.sqlite.org/"
+  },
+  "diesel": {
+    "logo": "diesel.svg",
+    "url": "https://diesel.rs/"
+  },
   "styled-components": {
     "logo": "styled-components.png",
     "url": "https://styled-components.com/"
@@ -85,6 +93,14 @@
   },
   "alephjs": "aleph",
   "aleph.js": "aleph",
+  "graphql": {
+    "logo": "graphql.svg",
+    "url": "https://graphql.org/"
+  },
+  "juniper": {
+    "logo": "juniper.png",
+    "url": "https://github.com/graphql-rust/juniper"
+  },
   "github": {
     "logo": "github.png",
     "url": "https://github.com/",

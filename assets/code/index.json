@@ -106,5 +106,9 @@
     "url": "https://github.com/",
     "filter": false
   },
-  "github-pages": "github"
+  "github-pages": "github",
+  "google-domains": {
+    "logo": "google-domains.png",
+    "url": "https://domains.google/"
+  }
 }

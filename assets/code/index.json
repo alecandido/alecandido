@@ -36,6 +36,10 @@
     "url": "https://www.vim.org/"
   },
   "vimscript": "vim",
+  "cookiecutter": {
+    "logo": "cookiecutter.png",
+    "url": "https://github.com/cookiecutter/cookiecutter"
+  },
   "html": {
     "logo": "html.png",
     "url": "https://www.w3.org/html/"

@@ -116,7 +116,7 @@ description: |
   WIP
 ```
 <p align="center">
-    <a href="https://raw.githubusercontent.com/N3PDF/eko/master/doc/source/img/Logo.png"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/http://n3pdf.github.io/eko" height="120" alt="eko" /> </a>
+    <a href="http://n3pdf.github.io/eko"> <img src="https://raw.githubusercontent.com/N3PDF/eko/master/doc/source/img/Logo.png" height="120" alt="eko" /> </a>
     <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
     <a href="https://github.com/N3PDF/eko"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=eko"  /> </a>
 </p>

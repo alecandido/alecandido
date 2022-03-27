@@ -18,8 +18,8 @@
       "title": "eko",
       "file": "projects/eko.yaml",
       "logo": {
-        "src": "http://n3pdf.github.io/eko",
-        "url": "https://raw.githubusercontent.com/N3PDF/eko/master/doc/source/img/Logo.png",
+        "src": "https://raw.githubusercontent.com/N3PDF/eko/master/doc/source/img/Logo.png",
+        "url": "http://n3pdf.github.io/eko",
         "props": { "height": 120, "alt": "eko" }
       },
       "spacer": 40,

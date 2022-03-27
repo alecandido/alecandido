@@ -65,25 +65,88 @@
       "descr": "calc",
       "elems": [
         {
-          "id": "",
-          "url": "",
-          "logo": { "src": "", "height": "" },
+          "id": "numpy",
+          "url": "https://numpy.org/",
+          "logo": { "src": "numpy.png", "height": "20" },
+          "aliases": ["np"]
+        },
+        {
+          "id": "scipy",
+          "url": "https://scipy.org/",
+          "logo": { "src": "scipy.png", "height": "20" },
           "aliases": []
+        },
+        {
+          "id": "pandas",
+          "url": "https://pandas.pydata.org/",
+          "logo": { "src": "pandas.png", "height": "20" },
+          "aliases": ["pd"]
+        },
+        {
+          "id": "scikit-learn",
+          "url": "https://scikit-learn.org/",
+          "logo": { "src": "scikit-learn.png", "height": "20" },
+          "aliases": ["sklearn"]
         }
       ]
     },
     {
       "descr": "viz",
-      "elems": []
+      "elems": [
+        {
+          "id": "matplotlib",
+          "url": "https://matplotlib.org/",
+          "logo": { "src": "matplotlib.png", "height": "20" },
+          "aliases": ["mpl"]
+        },
+        {
+          "id": "seaborn",
+          "url": "https://seaborn.pydata.org/",
+          "logo": { "src": "seaborn.png", "height": "20" },
+          "aliases": ["sns"]
+        },
+        {
+          "id": "plotly",
+          "url": "https://plotly.com/",
+          "logo": { "src": "plotly.png", "height": "20" },
+          "aliases": []
+        }
+      ]
     },
     {
       "descr": "speed",
-      "elems": []
+      "elems": [
+        {
+          "id": "numba",
+          "url": "https://numba.pydata.org/",
+          "logo": { "src": "numba.svg", "height": "20" },
+          "aliases": ["nb"]
+        }
+      ]
     },
     {
       "descr": "more",
-      "elems": []
+      "elems": [
+        {
+          "id": "jupyter",
+          "url": "https://jupyter.org/",
+          "logo": { "src": "jupyter.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "pillow",
+          "url": "https://pillow.readthedocs.io/",
+          "logo": { "src": "pillow.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "pymc",
+          "url": "https://docs.pymc.io/",
+          "logo": { "src": "pymc.png", "height": "20" },
+          "aliases": ["pymc3"]
+        }
+      ]
     }
   ],
-  "footer": "!img[https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true](https://github.com/anuraghazra/github-readme-stats){align: right}"
+  "footer": "!img[https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html](https://github.com/anuraghazra/github-readme-stats)"
 }

@@ -1,4 +1,3 @@
-import inspect
 import re
 from typing import Optional
 
@@ -32,13 +31,7 @@ def replace(src: str, url: Optional[str] = None, props: Optional[str] = None) ->
 
     # encapsulate in anchor (if specified)
     if url is not None:
-        img = inspect.cleandoc(
-            f"""
-            <a href="{url}">
-                {img}
-            </a>
-            """
-        )
+        img = f'<a href="{url}"> {img} </a>'
 
     return img
 

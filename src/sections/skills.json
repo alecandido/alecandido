@@ -1,3 +1,89 @@
 {
+  "Languages": [
+    {
+      "descr": "high level",
+      "elems": [
+        {
+          "id": "python",
+          "url": "https://www.python.org/",
+          "logo": { "src": "python.png", "height": "15" },
+          "aliases": ["py"]
+        },
+        {
+          "id": "javascript",
+          "url": "https://developer.mozilla.org/it/docs/Web/JavaScript",
+          "logo": { "src": "javascript.png", "height": "20" },
+          "aliases": ["js"]
+        },
+        {
+          "id": "typescript",
+          "url": "https://www.typescriptlang.org/",
+          "logo": { "src": "typescript.png", "height": "20" },
+          "aliases": ["ts"]
+        },
+        {
+          "id": "vim",
+          "url": "https://www.vim.org/",
+          "logo": { "src": "vim.png", "height": "20" },
+          "aliases": ["vimscript"]
+        },
+        "(below for shells)"
+      ]
+    },
+    {
+      "descr": "low level",
+      "elems": [
+        {
+          "id": "rust",
+          "url": "https://www.rust-lang.org/",
+          "logo": { "src": "rust.png", "height": "20" },
+          "aliases": ["rs"]
+        },
+        {
+          "id": "c",
+          "url": "https://en.wikipedia.org/wiki/C_programming_language",
+          "logo": { "src": "c.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "cpp",
+          "url": "https://www.isocpp.org/",
+          "logo": { "src": "cpp.png", "height": "20" },
+          "aliases": ["c++"]
+        },
+        {
+          "id": "fortran",
+          "url": "https://www.fortran-lang.org/",
+          "logo": { "src": "fortran.png", "height": "20" },
+          "aliases": []
+        }
+      ]
+    }
+  ],
+  "Data (with !img[code/python.png](https://www.python.org/){height: 15})": [
+    {
+      "descr": "calc",
+      "elems": [
+        {
+          "id": "",
+          "url": "",
+          "logo": { "src": "", "height": "" },
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "descr": "viz",
+      "elems": []
+    },
+    {
+      "descr": "speed",
+      "elems": []
+    },
+    {
+      "descr": "more",
+      "elems": []
+    }
+  ],
   "footer": "!img[https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true](https://github.com/anuraghazra/github-readme-stats){align: right}"
 }

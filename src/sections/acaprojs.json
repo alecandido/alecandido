@@ -4,30 +4,39 @@
       "title": "yadism",
       "file": "projects/yadism.yaml",
       "logo": {
-        "src": "",
-        "url": "",
-        "props": { "height": 120 }
+        "src": "https://raw.githubusercontent.com/N3PDF/yadism/master/docs/_assets/logo/logo.png",
+        "url": "http://n3pdf.github.io/yadism",
+        "props": { "height": 120, "alt": "yaidsm" }
       },
       "spacer": 40,
-      "badge": { "picture": "", "url": "" }
+      "badge": {
+        "picture": "https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=yadism",
+        "url": "https://github.com/N3PDF/yadism"
+      }
     },
     {
       "title": "eko",
       "file": "projects/eko.yaml",
       "logo": {
-        "src": "",
-        "url": "",
-        "props": { "height": 120 }
+        "src": "http://n3pdf.github.io/eko",
+        "url": "https://raw.githubusercontent.com/N3PDF/eko/master/doc/source/img/Logo.png",
+        "props": { "height": 120, "alt": "eko" }
       },
       "spacer": 40,
-      "badge": { "picture": "", "url": "" }
+      "badge": {
+        "picture": "https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=eko",
+        "url": "https://github.com/N3PDF/eko"
+      }
     }
   ],
-  "Master thesis": [
+  "Master Thesis": [
     {
       "title": "cdt2d",
       "file": "projects/cdt2d.yaml",
-      "badge": { "picture": "", "url": "" }
+      "badge": {
+        "picture": "https://github-readme-stats.vercel.app/api/pin/?username=alecandido&repo=cdt_2d",
+        "url": "https://github.com/AleCandido/CDT_2D"
+      }
     }
   ]
 }

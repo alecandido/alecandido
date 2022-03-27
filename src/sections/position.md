@@ -14,7 +14,7 @@ institutions:
   !img[spacer.png]{width: 40}
   !img[infn_logo.png](https://www.mi.infn.it/it/){height: 60, alt: INFN}
   !img[spacer.png]{width: 40}
-  !img[n3pdf_logo.png](http://n3pdf.mi.infn.it/){height: 60, alt: INFN}
+  !img[n3pdf_logo.png](http://n3pdf.mi.infn.it/){height: 60, alt: N3PDF}
   !img[spacer.png]{width: 40}
-  !img[nnpdf_logo.png](http://nnpdf.mi.infn.it/){height: 30, alt: INFN}
+  !img[nnpdf_logo.png](http://nnpdf.mi.infn.it/){height: 30, alt: NNPDF}
 </p>

@@ -35,7 +35,5 @@ def main():
 
         (tmpdir / output).write_text(interpreted, encoding="utf-8")
 
-        __import__("pdb").set_trace()
-
-    # emit output and clean up
-    print("Ciao, come va?")
+        # emit output and clean up
+        shutil.copyfile(tmpdir / output, root / output)

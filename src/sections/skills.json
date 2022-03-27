@@ -148,5 +148,106 @@
       ]
     }
   ],
+  "Web": [
+    {
+      "descr": "languages",
+      "elems": [
+        {
+          "id": "html",
+          "url": "https://www.w3.org/html/",
+          "logo": { "src": "html.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "css",
+          "url": "https://www.w3.org/TR/CSS/",
+          "logo": { "src": "css.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "javascript",
+          "url": "https://developer.mozilla.org/it/docs/Web/JavaScript",
+          "logo": { "src": "javascript.png", "height": "20" },
+          "aliases": ["js"]
+        },
+        {
+          "id": "typescript",
+          "url": "https://www.typescriptlang.org/",
+          "logo": { "src": "typescript.png", "height": "20" },
+          "aliases": ["ts"]
+        }
+      ]
+    },
+    {
+      "descr": "tech",
+      "elems": [
+        {
+          "id": "deno",
+          "url": "https://deno.land/",
+          "logo": { "src": "deno.svg", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "graphql",
+          "url": "https://graphql.org/",
+          "logo": { "src": "graphql.svg", "height": "20" },
+          "aliases": ["gql"]
+        },
+        {
+          "id": "sqlite",
+          "url": "https://www.sqlite.org/",
+          "logo": { "src": "sqlite.svg", "height": "20" },
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "descr": "framework",
+      "elems": [
+        {
+          "id": "react",
+          "url": "https://reactjs.org/",
+          "logo": { "src": "react.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "nextjs",
+          "url": "https://nextjs.org/",
+          "logo": { "src": "next.png", "height": "20" },
+          "aliases": ["next"]
+        },
+        {
+          "id": "alephjs",
+          "url": "https://alephjs.org/",
+          "logo": { "src": "aleph.svg", "height": "20" },
+          "aliases": ["aleph"]
+        },
+        {
+          "id": "syled-components",
+          "url": "https://styled-components.com/",
+          "logo": { "src": "styled-components.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "bulma",
+          "url": "https://bulma.io/",
+          "logo": { "src": "bulma.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "diesel",
+          "url": "https://diesel.rs/",
+          "logo": { "src": "diesel.svg", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "juniper",
+          "url": "https://github.com/graphql-rust/juniper",
+          "logo": { "src": "juniper.png", "height": "20" },
+          "aliases": []
+        }
+      ]
+    }
+  ],
   "footer": "!img[https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html](https://github.com/anuraghazra/github-readme-stats)"
 }

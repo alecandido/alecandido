@@ -291,5 +291,100 @@
       ]
     }
   ],
+  "Graphics": [
+    {
+      "descr": "editor",
+      "elems": [
+        {
+          "id": "inkscape",
+          "url": "https://inkscape.org/",
+          "logo": { "src": "inkscape.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "gimp",
+          "url": "https://www.gimp.org/",
+          "logo": { "src": "gimp.png", "height": "20" },
+          "aliases": []
+        }
+      ]
+    }
+  ],
+  "More": [
+    {
+      "descr": "versioning",
+      "elems": [
+        {
+          "id": "git",
+          "url": "https://git-scm.com/",
+          "logo": { "src": "git.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "github",
+          "url": "https://github.com/",
+          "logo": { "src": "github.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "gitlab",
+          "url": "https://gitlab.com/",
+          "logo": { "src": "gitlab.png", "height": "20" },
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "descr": "text",
+      "elems": [
+        {
+          "id": "latex",
+          "url": "https://www.latex-project.org/",
+          "logo": { "src": "latex.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "readme",
+          "url": "https://github.com/AleCandido/AleCandido/blob/master/README.md",
+          "logo": { "src": "readme.png", "height": "20" },
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "descr": "calc",
+      "elems": [
+        {
+          "id": "mathematica",
+          "url": "https://www.wolfram.com/mathematica/",
+          "logo": { "src": "mathematica.png", "height": "20" },
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "descr": "_if really needed..._",
+      "elems": [
+        {
+          "id": "windows",
+          "url": "https://www.microsoft.com/en-us/windows/",
+          "logo": { "src": "windows.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "wsl",
+          "url": "https://docs.microsoft.com/en-us/windows/wsl/",
+          "logo": { "src": "wsl.png", "height": "20" },
+          "aliases": ["wsl2"]
+        },
+        {
+          "id": "office",
+          "url": "https://www.office.com/",
+          "logo": { "src": "office.png", "height": "20" },
+          "aliases": ["msoffice"]
+        }
+      ]
+    }
+  ],
   "footer": "!img[https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html](https://github.com/anuraghazra/github-readme-stats)"
 }

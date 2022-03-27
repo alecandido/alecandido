@@ -2,6 +2,9 @@ import inspect
 import json
 import os
 import pathlib
+import re
+
+emptyline = re.compile(r"\n\s*\n")
 
 
 def run(datafile: str, *, name: str, workdir: os.PathLike):
@@ -20,7 +23,7 @@ def run(datafile: str, *, name: str, workdir: os.PathLike):
             spacer = ""
             if "spacer" in proj:
                 width = proj["spacer"]
-                spacer = f"\n!img[spacer.png]{{width: {width}}}"
+                spacer = f"!img[spacer.png]{{width: {width}}}"
 
             logo = ""
             if "logo" in proj:
@@ -36,16 +39,22 @@ def run(datafile: str, *, name: str, workdir: os.PathLike):
                         + "}"
                     )
 
-                logo = f"\n!img[{src}]({url}){propstr}"
+                logo = f"!img[{src}]({url}){propstr}"
 
             content += f"```yaml\n{{% include {proj['file']} %}}\n```\n"
             content += (
                 inspect.cleandoc(
-                    f"""
-                    <p align="center">{logo}{spacer}
+                    re.sub(
+                        emptyline,
+                        "\n",
+                        f"""
+                    <p align="center">
+                        {logo}
+                        {spacer}
                         !img[{proj["badge"]["picture"]}]({proj["badge"]["url"]})
                     </p>
-                    """
+                    """,
+                    )
                 )
                 + "\n\n"
             )

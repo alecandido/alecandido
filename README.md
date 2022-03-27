@@ -145,8 +145,6 @@ original: |
   the algorithm is directly generalizable to SU(2) and U(N))
 ```
 <p align="center">
-    
-    
     <a href="https://github.com/AleCandido/CDT_2D"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=alecandido&repo=cdt_2d"  /> </a>
 </p>
 

@@ -249,5 +249,47 @@
       ]
     }
   ],
+  "System": [
+    {
+      "descr": "os",
+      "elems": [
+        {
+          "id": "ubuntu",
+          "url": "https://ubuntu.com/",
+          "logo": { "src": "ubuntu.png", "height": "20" },
+          "aliases": []
+        },
+        {
+          "id": "arch",
+          "url": "https://www.archlinux.org/",
+          "logo": { "src": "arch.png", "height": "20" },
+          "aliases": ["archlinux"]
+        },
+        {
+          "id": "debian",
+          "url": "https://www.debian.org/",
+          "logo": { "src": "debian.png", "height": "20" },
+          "aliases": []
+        }
+      ]
+    },
+    {
+      "descr": "shell",
+      "elems": [
+        {
+          "id": "zsh",
+          "url": "https://en.wikipedia.org/wiki/Z_shell",
+          "logo": { "src": "zsh.png", "height": "16" },
+          "aliases": []
+        },
+        {
+          "id": "bash",
+          "url": "https://www.gnu.org/software/bash/",
+          "logo": { "src": "bash.png", "height": "20" },
+          "aliases": []
+        }
+      ]
+    }
+  ],
   "footer": "!img[https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html](https://github.com/anuraghazra/github-readme-stats)"
 }

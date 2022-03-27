@@ -1,14 +1,15 @@
-# Hi, I'm Alessandro <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="30"/><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/psi-small.gif" height="50"/>
+# Hi, I'm Alessandro <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="30" /><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/psi-small.gif" height="50" />
 
-I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and computer science enthusiast.
+I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
+computer science enthusiast.
 
-- Personal Website &nbsp; <a href="http://alecandido.github.io"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png" height="30"/></a>
-- Contact me &nbsp; <a href="mailto:candido.ale@gmail.com"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png" height="30"/></a>
-- Anime & Manga &nbsp; <a href="https://myanimelist.net/animelist/Annibale"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png" height="30"/></a>
-- Books &nbsp; <a href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png" height="30"/></a>
+- Personal Website &nbsp; <a href="https://annibale.dev"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png" height="30" /> </a>
+- Contact me &nbsp; <a href="mailto:candido.ale@gmail.com"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png" height="30" /> </a>
+- Anime & Manga &nbsp; <a href="https://myanimelist.net/animelist/Annibale"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png" height="30" /> </a>
+- Books &nbsp; <a href="https://www.goodreads.com/review/list/120691874"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png" height="30" /> </a>
 
 <details>
-  <summary> <b> Current Position </b> </summary>
+    <summary> <b> Current Position </b> </summary>
 
 ## Current Position
 
@@ -24,63 +25,19 @@ institutions:
 ```
 
 <p align="center">
-  <a href="https://www.unimi.it/en">
-    <img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unimi_banner.png"
-        alt="University of Milan"
-        height="60"
-      />
-  </a>
-  <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="40"
-    />
-  <a href="https://www.mi.infn.it/it/">
-    <img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/infn_logo.png"
-        alt="INFN"
-        height="60"
-      />
-  </a>
-  <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="40"
-    />
-  <a href="http://n3pdf.mi.infn.it/">
-    <img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png"
-        alt="N3PDF"
-        height="60"
-      />
-  </a>
-  <!--<img-->
-      <!--src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"-->
-      <!--width="40"-->
-    <!--/>-->
-  <!--<a href="https://erc.europa.eu/">-->
-    <!--<img-->
-        <!--src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/erc_logo1.png"-->
-        <!--alt="ERC"-->
-        <!--height="60"-->
-      <!--/>-->
-  <!--</a>-->
-  <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="40"
-    />
-  <a href="http://nnpdf.mi.infn.it/">
-    <img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_logo.png"
-        alt="NNPDF"
-        height="30"
-      />
-  </a>
+  <a href="https://www.unimi.it/en"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unimi_banner.png" height="60" alt="University of Milan" /> </a>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+  <a href="https://www.mi.infn.it/it/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/infn_logo.png" height="60" alt="INFN" /> </a>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+  <a href="http://n3pdf.mi.infn.it/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png" height="60" alt="N3PDF" /> </a>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+  <a href="http://nnpdf.mi.infn.it/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_logo.png" height="30" alt="NNPDF" /> </a>
 </p>
 
 </details>
 
 <details>
-  <summary> <b> Education </b> </summary>
+    <summary> <b> Education </b> </summary>
 
 ## Education
 
@@ -101,7 +58,7 @@ Master:
   thesis:
     title: Simplicial quantum gravity with dynamical gauge fields
     supervisor: M. D'Elia
-    
+
 Bachelor:
   title: Bachelor of Science (BSc), Physics
   university: University of Pisa (Unipi)
@@ -116,30 +73,15 @@ website](https://www.sns.it/en/scuola-normale-superiore/statute-regulations-and-
 `(2)` Final grade has been introduced in 2020 at SNS
 
 <p align="center">
-  <a href="https://www.unipi.it/index.php/english">
-    <img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unipi_banner.png"
-        alt="University of Pisa"
-        height="100"
-      />
-  </a>
-  <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="80"
-    />
-  <a href="https://www.sns.it/en">
-    <img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/sns_banner.png"
-        alt="Scuola Normale Superiore"
-        height="100"
-      />
-  </a>
+  <a href="https://www.unipi.it/index.php/english"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unipi_banner.png" height="100" alt="University of Pisa" /> </a>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="80" />
+  <a href="https://www.sns.it/en"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/sns_banner.png" height="100" alt="Scuola Normale Superiore" /> </a>
 </p>
 
 </details>
 
 <details>
-  <summary> <b> Academic Code Projects </b> </summary>
+    <summary> <b> Academic Code Projects </b> </summary>
 
 ## Academic Code Projects
 
@@ -156,22 +98,10 @@ collaborators:
 description: |
   WIP
 ```
-
 <p align="center">
-  <a href="http://n3pdf.github.io/yadism">
-    <img
-        src="https://raw.githubusercontent.com/N3PDF/yadism/master/docs/_assets/logo/logo.png"
-        alt="yadism"
-        height="120"
-      />
-  </a>
-  <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="40"
-    />
-  <a href="https://github.com/N3PDF/yadism">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=yadism" />
-  </a>
+    <a href="http://n3pdf.github.io/yadism"> <img src="https://raw.githubusercontent.com/N3PDF/yadism/master/docs/_assets/logo/logo.png" height="120" alt="yaidsm" /> </a>
+    <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+    <a href="https://github.com/N3PDF/yadism"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=yadism"  /> </a>
 </p>
 
 ```yaml
@@ -185,22 +115,10 @@ collaborators:
 description: |
   WIP
 ```
-
 <p align="center">
-  <a href="http://n3pdf.github.io/eko">
-    <img
-        src="https://raw.githubusercontent.com/N3PDF/eko/master/doc/source/img/Logo.png"
-        alt="eko"
-        height="120"
-      />
-  </a>
-  <img
-      src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
-      width="40"
-    />
-  <a href="https://github.com/N3PDF/eko">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=eko" />
-  </a>
+    <a href="https://raw.githubusercontent.com/N3PDF/eko/master/doc/source/img/Logo.png"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/http://n3pdf.github.io/eko" height="120" alt="eko" /> </a>
+    <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+    <a href="https://github.com/N3PDF/eko"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=N3PDF&repo=eko"  /> </a>
 </p>
 
 ### Master Thesis
@@ -226,127 +144,67 @@ original: |
   algorithm for gauge fields introduction (a U(1) gauge field is implemented,
   the algorithm is directly generalizable to SU(2) and U(N))
 ```
-
 <p align="center">
-  <a href="https://github.com/AleCandido/CDT_2D">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alecandido&repo=cdt_2d" />
-  </a>
+    
+    
+    <a href="https://github.com/AleCandido/CDT_2D"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=alecandido&repo=cdt_2d"  /> </a>
 </p>
 
 </details>
 
 <details>
-  <summary> <b> Code Skills </b> </summary>
+    <summary> <b> Code Skills </b> </summary>
 
 ## Code Skills
 
+
 ### Languages
 
-- high level: <a href="https://www.python.org/"><img
-  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png"
-  height="15" /></a> <a
-  href="https://developer.mozilla.org/it/docs/Web/JavaScript"><img
-  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png"
-  height="20" /></a> <a
-  href="https://www.vim.org/"><img
-  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/vim.png" height="20" /></a> (below for shells)
-- low level: <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/rust.png" height="20" /></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/c.png" height="20" /></a> <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/cpp.png" height="20" /></a> <a href="https://fortran-lang.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/fortran.png" height="20" /></a>
+- high level: <a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /> </a> <a href="https://developer.mozilla.org/it/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" /> </a> <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/typescript.png" height="20" /> </a> <a href="https://www.vim.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/vim.png" height="20" /> </a> (below for shells)
+- low level: <a href="https://www.rust-lang.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/rust.png" height="20" /> </a> <a href="https://en.wikipedia.org/wiki/C_programming_language"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/c.png" height="20" /> </a> <a href="https://www.isocpp.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/cpp.png" height="20" /> </a> <a href="https://www.fortran-lang.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/fortran.png" height="20" /> </a>
 
-### Data (with <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /></a>)
+### Data (with <a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/python.png" height="15" /> </a>)
 
-- calc: <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numpy.png" height="20" /></a> <a href="https://scipy.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scipy.png" height="20" /></a> <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pandas.png" height="20" /></a> <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scikit-learn.png" height="20" /></a>
-- viz: <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/matplotlib.png" height="20" /></a> <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/seaborn.png" height="20" /></a> <a href="https://holoviz.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/holoviz.png" height="20" /></a> <a href="https://bokeh.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bokeh.png" height="20" /></a> <a href="https://plotly.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/plotly.png" height="20" /></a>
-- speed: <a href="https://numba.pydata.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numba.svg" height="20" /></a>
-- more: <a href="https://jupyter.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/jupyter.png" height="20" />
-  </a> <a href="https://pillow.readthedocs.io/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pillow.png" height="20" />
-  </a> <a href="https://docs.pymc.io/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pymc.png" height="20" />
-  </a>
-
+- calc: <a href="https://numpy.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numpy.png" height="20" /> </a> <a href="https://scipy.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scipy.png" height="20" /> </a> <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pandas.png" height="20" /> </a> <a href="https://scikit-learn.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/scikit-learn.png" height="20" /> </a>
+- viz: <a href="https://matplotlib.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/matplotlib.png" height="20" /> </a> <a href="https://seaborn.pydata.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/seaborn.png" height="20" /> </a> <a href="https://plotly.com/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/plotly.png" height="20" /> </a>
+- speed: <a href="https://numba.pydata.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/numba.svg" height="20" /> </a>
+- more: <a href="https://jupyter.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/jupyter.png" height="20" /> </a> <a href="https://pillow.readthedocs.io/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pillow.png" height="20" /> </a> <a href="https://docs.pymc.io/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/pymc.png" height="20" /> </a>
 
 ### Web
 
-- languages: <a href="https://www.w3.org/html/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/html.png" height="20" />
-  </a> <a href="https://www.w3.org/TR/CSS/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/css.png" height="20" />
-  </a> <a href="https://developer.mozilla.org/it/docs/Web/JavaScript">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" />
-  </a> <a href="https://www.typescriptlang.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/typescript.png" height="20" />
-  </a> 
-- tech: <a href="https://deno.land/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/deno.svg" height="20" />
-  </a> <a href="https://graphql.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/graphql.svg" height="20" />
-  </a> <a href="https://www.sqlite.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/sqlite.svg" height="20" />
-  </a> 
-- framework: <a href="https://reactjs.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/react.png" height="20" />
-  </a> <a href="https://nextjs.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/next.png" height="20" />
-  </a> <a href="https://alephjs.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/aleph.svg" height="20" />
-  </a> <a href="https://styled-components.com/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/styled-components.png" height="20" />
-  </a> <a href="https://bulma.io/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bulma.png" height="20" />
-  </a> <a href="https://diesel.rs/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/diesel.svg" height="20" />
-  </a> <a href="https://github.com/graphql-rust/juniper">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/juniper.png" height="20" />
-  </a>
+- languages: <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/html.png" height="20" /> </a> <a href="https://www.w3.org/TR/CSS/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/css.png" height="20" /> </a> <a href="https://developer.mozilla.org/it/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/javascript.png" height="20" /> </a> <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/typescript.png" height="20" /> </a>
+- tech: <a href="https://deno.land/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/deno.svg" height="20" /> </a> <a href="https://graphql.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/graphql.svg" height="20" /> </a> <a href="https://www.sqlite.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/sqlite.svg" height="20" /> </a>
+- framework: <a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/react.png" height="20" /> </a> <a href="https://nextjs.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/next.png" height="20" /> </a> <a href="https://alephjs.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/aleph.svg" height="20" /> </a> <a href="https://styled-components.com/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/styled-components.png" height="20" /> </a> <a href="https://bulma.io/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bulma.png" height="20" /> </a> <a href="https://diesel.rs/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/diesel.svg" height="20" /> </a> <a href="https://github.com/graphql-rust/juniper"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/juniper.png" height="20" /> </a>
 
 ### System
 
-- os: <a href="https://ubuntu.com/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/ubuntu.png" height="20" />
-  </a> <a href="https://www.archlinux.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/arch.png" height="20" />
-  </a> <a href="https://www.debian.org/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/debian.png" height="20" />
-  </a>
-- shell: <a href="https://en.wikipedia.org/wiki/Z_shell">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/zsh.png" height="16" />
-  </a> <a href="https://www.gnu.org/software/bash/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bash.png" height="20" />
-  </a>
+- os: <a href="https://ubuntu.com/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/ubuntu.png" height="20" /> </a> <a href="https://www.archlinux.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/arch.png" height="20" /> </a> <a href="https://www.debian.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/debian.png" height="20" /> </a>
+- shell: <a href="https://en.wikipedia.org/wiki/Z_shell"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/zsh.png" height="16" /> </a> <a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/bash.png" height="20" /> </a>
 
 ### Graphics
 
-- editor: <a href="https://inkscape.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/inkscape.png" height="20" /></a> <a href="https://www.gimp.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/gimp.png" height="20" /></a>
+- editor: <a href="https://inkscape.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/inkscape.png" height="20" /> </a> <a href="https://www.gimp.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/gimp.png" height="20" /> </a>
 
 ### More
 
-- versioning: <a href="https://git-scm.com/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/git.png" height="20" />
-  </a> <a href="https://github.com/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/github.png" height="20" />
-  </a> <a href="https://gitlab.com/">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/gitlab.png" height="20" />
-  </a>
-- text: <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/latex.png" height="20" /></a> <a href="https://github.com/AleCandido/AleCandido/blob/master/README.md"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/readme.png" height="20" /></a>
-- calc: <a href="https://www.wolfram.com/mathematica/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/mathematica.png" height="20" /></a> _(?)_
-- _if really needed..._ : <a href="https://www.microsoft.com/en-us/windows/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/windows.png" height="20" /></a> <a href="https://docs.microsoft.com/en-us/windows/wsl/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/wsl.png" height="20" /></a> <a href="https://www.office.com/"><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/office.png" height="20" /></a>
+- versioning: <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/git.png" height="20" /> </a> <a href="https://github.com/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/github.png" height="20" /> </a> <a href="https://gitlab.com/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/gitlab.png" height="20" /> </a>
+- text: <a href="https://www.latex-project.org/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/latex.png" height="20" /> </a> <a href="https://github.com/AleCandido/AleCandido/blob/master/README.md"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/readme.png" height="20" /> </a>
+- calc: <a href="https://www.wolfram.com/mathematica/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/mathematica.png" height="20" /> </a>
+- _if really needed..._: <a href="https://www.microsoft.com/en-us/windows/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/windows.png" height="20" /> </a> <a href="https://docs.microsoft.com/en-us/windows/wsl/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/wsl.png" height="20" /> </a> <a href="https://www.office.com/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/code/office.png" height="20" /> </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html" />
-</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html"  /> </a>
+
 </details>
 
 <p>
 <a href="https://alecandido.github.io">
-  <img
-     src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/plane-unscreen.gif"
-     height="200"
-     />
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/plane-unscreen.gif" height="200" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true" />
 </a>
 </p>
+
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->

@@ -1,0 +1,19 @@
+name: CDT 2D
+subject:
+  area: physics
+  topic: quantum gravity
+  approach: asymptotic safety
+supervisor: M. D'Elia
+collaborators:
+  - G. Clemente
+description: |
+  explore the space of discrete space-times in Einstein gravity applying a
+  Markov Chain Monte Carlo approach, through the Metropolis-Hastings algorithm
+
+  the considered space is made by Triangulations, suitable to approximate a
+  generic space-time with a finite length scale (lattice spacing), with a
+  time-sliced structure (so they are called Causal)
+original: |
+  in this project a 2D simulation has been implemented, with an original
+  algorithm for gauge fields introduction (a U(1) gauge field is implemented,
+  the algorithm is directly generalizable to SU(2) and U(N))

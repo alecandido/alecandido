@@ -12,11 +12,6 @@ I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
 
 ## Current Position
 
-<!--At the present time I'm a PhD student at the [University of-->
-<!--Milan](https://www.unimi.it/en),-->
-<!--a member of the [N3PDF](http://n3pdf.mi.infn.it/) team,-->
-<!--and of the [NNPDF](http://nnpdf.mi.infn.it/) collaboration.-->
-
 ```yaml
 position: PhD
 supervisor: S. Forte

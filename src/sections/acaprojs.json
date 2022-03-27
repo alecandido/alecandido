@@ -6,9 +6,9 @@
       "logo": {
         "src": "",
         "url": "",
-        "props": { "height": 120 },
-        "spacer": 40
+        "props": { "height": 120 }
       },
+      "spacer": 40,
       "badge": { "picture": "", "url": "" }
     },
     {
@@ -17,9 +17,9 @@
       "logo": {
         "src": "",
         "url": "",
-        "props": { "height": 120 },
-        "spacer": 40
+        "props": { "height": 120 }
       },
+      "spacer": 40,
       "badge": { "picture": "", "url": "" }
     }
   ],

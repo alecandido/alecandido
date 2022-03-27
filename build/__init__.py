@@ -28,10 +28,14 @@ def main():
         shutil.copytree(src, tmpdir / "src")
 
         # start from entry point
-        include.apply(tmpdir / "src" / entry)
+        content = include.apply(tmpdir / "src" / entry)
 
         # post-process
-        dsl.main()
+        interpreted = dsl.main(content)
+
+        (tmpdir / output).write_text(interpreted, encoding="utf-8")
+
+        __import__("pdb").set_trace()
 
     # emit output and clean up
     print("Ciao, come va?")

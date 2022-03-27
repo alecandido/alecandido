@@ -1,0 +1,6 @@
+[
+  { "title": "Current Position", "file": "position.md" },
+  { "title": "Education", "file": "education.md" },
+  { "title": "Academic Code Projects", "file": "acaprojs.md" },
+  { "title": "Code Skills", "file": "skills.md" }
+]

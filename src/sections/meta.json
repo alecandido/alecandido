@@ -1,0 +1,12 @@
+{
+  "generated": {
+    "acaprojs.md": {
+      "generator": "acaprojs",
+      "input": ["acaprojs.json"]
+    },
+    "skills.md": {
+      "generator": "skills",
+      "input": ["skills.json"]
+    }
+  }
+}

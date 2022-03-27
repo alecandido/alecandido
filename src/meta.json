@@ -1,0 +1,12 @@
+{
+  "generated": {
+    "contacts.md": {
+      "generator": "contacts",
+      "input": ["contacts.json"]
+    },
+    "sections.md": {
+      "generator": "sections",
+      "input": ["sections/index.json"]
+    }
+  }
+}

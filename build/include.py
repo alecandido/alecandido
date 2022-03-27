@@ -36,7 +36,9 @@ def apply(path: pathlib.Path) -> str:
 
         matched = re.search(pattern, line)
         if matched is not None:
-            logging.info(f"Including '{matched[1]}' in '{path.name}'")
+            depth = len(path.relative_to("/tmp").parents) + matched[1].count("/") - 2
+            spacer = " " * 4 * depth
+            logging.info(f"Including: {spacer} '{matched[1]}' -> '{path.name}'")
             included = resolve(matched[1], path.parent)
 
             # append all newlines, preserving indentation

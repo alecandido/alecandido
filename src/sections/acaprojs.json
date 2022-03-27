@@ -1,0 +1,33 @@
+{
+  "PhD": [
+    {
+      "title": "yadism",
+      "file": "projects/yadism.yaml",
+      "logo": {
+        "src": "",
+        "url": "",
+        "props": { "height": 120 },
+        "spacer": 40
+      },
+      "badge": { "picture": "", "url": "" }
+    },
+    {
+      "title": "eko",
+      "file": "projects/eko.yaml",
+      "logo": {
+        "src": "",
+        "url": "",
+        "props": { "height": 120 },
+        "spacer": 40
+      },
+      "badge": { "picture": "", "url": "" }
+    }
+  ],
+  "Master thesis": [
+    {
+      "title": "cdt2d",
+      "file": "projects/cdt2d.yaml",
+      "badge": { "picture": "", "url": "" }
+    }
+  ]
+}

@@ -15,7 +15,7 @@ computer science enthusiast.
   height="30"/></a>
 - Work &nbsp; <a href="https://www.linkedin.com/in/alessandro-candido/"><img
   src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
-  height="20" style="margin: 10pt 0pt 0pt 5pt;"/></a>
+  height="20"/></a>
 - Anime & Manga &nbsp; <a href="https://myanimelist.net/animelist/Annibale"><img
   src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png"
   height="30"/></a>

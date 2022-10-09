@@ -1,12 +1,28 @@
-# Hi, I'm Alessandro <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="30" /><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/psi-small.gif" height="50" />
+# Hi, I'm Alessandro <img
+src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png"
+width="30"/><img
+src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/psi-small.gif"
+height="50"/>
 
 I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
 computer science enthusiast.
 
-- Personal Website &nbsp; <a href="https://annibale.dev"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png" height="30" /> </a>
-- Contact me &nbsp; <a href="mailto:candido.ale@gmail.com"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png" height="30" /> </a>
-- Anime & Manga &nbsp; <a href="https://myanimelist.net/animelist/Annibale"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png" height="30" /> </a>
-- Books &nbsp; <a href="https://www.goodreads.com/review/list/120691874"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png" height="30" /> </a>
+- Personal Website &nbsp; <a href="http://alecandido.github.io"><img
+  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
+  height="30"/></a>
+- Contact me &nbsp; <a href="mailto:candido.ale@gmail.com"><img
+  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
+  height="30"/></a>
+- Work &nbsp; <a href="https://www.linkedin.com/in/alessandro-candido/"><img
+  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
+  height="30"/></a>
+- Anime & Manga &nbsp; <a href="https://myanimelist.net/animelist/Annibale"><img
+  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png"
+  height="30"/></a>
+- Books &nbsp; <a
+  href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"><img
+  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png"
+  height="30"/></a>
 
 <details>
     <summary> <b> Current Position </b> </summary>

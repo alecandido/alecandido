@@ -26,14 +26,12 @@ computer science enthusiast.
 ## Current Position
 
 ```yaml
-position: PhD
+position: Assegnista INFN (post-doc)
 supervisor: S. Forte
-start_date: November, 2019
+start_date: April, 2023
 institutions:
-  university: Università degli Studi di Milano
   affiliation: INFN
-  team: N3PDF
-  collaboration: NNPDF
+collaboration: NNPDF
 ```
 
 <p align="center">
@@ -46,6 +44,7 @@ institutions:
   <a href="http://nnpdf.mi.infn.it/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_logo.png" height="30" alt="NNPDF" /> </a>
 </p>
 
+
 </details>
 
 <details>
@@ -54,19 +53,44 @@ institutions:
 ## Education
 
 ```yaml
+PhD:
+  title: PhD, Physics
+  supervisor: S. Forte
+  start-date: November, 2019
+  end-date: January, 2023
+  institutions:
+    university: Università degli Studi di Milano
+    affiliation: INFN
+  team: N3PDF
+  collaboration: NNPDF
+  thesis:
+    title: Theory predictions for PDF fitting
+```
+
+<p align="center">
+  <a href="https://www.unimi.it/en"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/unimi_banner.png" height="60" alt="University of Milan" /> </a>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+  <a href="https://www.mi.infn.it/it/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/infn_logo.png" height="60" alt="INFN" /> </a>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+  <a href="http://n3pdf.mi.infn.it/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/n3pdf_logo.png" height="60" alt="N3PDF" /> </a>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+  <a href="http://nnpdf.mi.infn.it/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_logo.png" height="30" alt="NNPDF" /> </a>
+</p>
+
+```yaml
 Diploma di Licenza:
   title: Diploma di Licenza (1), Physics
   institution: Scuola Normale Superiore (SNS)
   grade: 100 cum laude (2)
   start-date: September 2014
-  finish-date: July 2020
+  end-date: July 2020
 
 Master:
   title: Master of Science (MSc), Theoretical Physics
   university: University of Pisa (Unipi)
   grade: 110 cum laude
   start-date: September 2017
-  finish-date: October 2019
+  end-date: October 2019
   thesis:
     title: Simplicial quantum gravity with dynamical gauge fields
     supervisor: M. D'Elia
@@ -76,7 +100,7 @@ Bachelor:
   university: University of Pisa (Unipi)
   grade: 110 cum laude
   start-date: September 2014
-  finish-date: June 2017
+  end-date: June 2017
 ```
 
 `(1)` Custom title by Scuola Normale Superiore, obtained by all the students that

@@ -125,16 +125,8 @@ website](https://www.sns.it/en/scuola-normale-superiore/statute-regulations-and-
 
 </details>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html"  /> </a>
-
 <p>
-<a href="https://alecandido.github.io">
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/plane-unscreen.gif" height="200" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true" />
-</a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecandido&layout=compact&hide=jupyter%20notebook,tex,html"  /> </a>
 </p>
 
 <!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=alecandido&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->

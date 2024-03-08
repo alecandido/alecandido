@@ -1,38 +1,37 @@
 # Hi, I'm Alessandro <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="30"/><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/psi-small.gif" height="50"/>
 
-I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
-computer science enthusiast.
+I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Computing.
 
 <div align="center" >
-  <a href="http://alecandido.github.io" rel="nofollow"
-    <em>
-      Personal Website &nbsp;
-        ><img
-          src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
-          height="40"
-          style="max-width: 100%"
-    </em>
-  /></a>
+  <em>
+    Personal Website &nbsp;
+    <a href="http://alecandido.github.io" rel="nofollow"
+      ><img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
+        height="40"
+        style="max-width: 100%"
+    /></a>
+  </em>
   <code>            </code>
-  <a href="mailto:candido.ale@gmail.com"
-    <em>
-      Contact me &nbsp;
-        ><img
-          src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
-          height="40"
-          style="max-width: 100%"
-    </em>
-  /></a>
+  <em>
+    Contact me &nbsp;
+    <a href="mailto:candido.ale@gmail.com"
+      ><img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
+        height="40"
+        style="max-width: 100%"
+    /></a>
+  </em>
   <code>            </code>
+  <em>
+    Work &nbsp;
     <a href="https://www.linkedin.com/in/alessandro-candido/" rel="nofollow"
-    <em>
-      Work &nbsp;
-        ><img
-          src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
-          height="40"
-          style="max-width: 100%"
-    </em>
-  /></a>
+      ><img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
+        height="40"
+        style="max-width: 100%"
+    /></a>
+  </em>
 </div>
 <div align="center" >
   <em>

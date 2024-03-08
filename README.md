@@ -4,7 +4,7 @@ I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
 computer science enthusiast.
 
 <div align="center" >
-  <div>
+  <span>
     Personal Website &nbsp;
     <a href="http://alecandido.github.io" rel="nofollow"
       ><img
@@ -12,8 +12,9 @@ computer science enthusiast.
         height="30"
         style="max-width: 100%"
     /></a>
-  </div>
-  <div>
+  </span>
+  <code>            </code>
+  <span>
     Contact me &nbsp;
     <a href="mailto:candido.ale@gmail.com"
       ><img
@@ -21,8 +22,9 @@ computer science enthusiast.
         height="30"
         style="max-width: 100%"
     /></a>
-  </div>
-  <div>
+  </span>
+  <code>            </code>
+  <span>
     Work &nbsp;
     <a href="https://www.linkedin.com/in/alessandro-candido/" rel="nofollow"
       ><img
@@ -30,10 +32,10 @@ computer science enthusiast.
         height="30"
         style="max-width: 100%"
     /></a>
-  </div>
+  </span>
 </div>
 <div align="center" >
-  <div>
+  <span>
     Anime &amp; Manga &nbsp;
     <a href="https://myanimelist.net/animelist/Annibale" rel="nofollow"
       ><img
@@ -41,8 +43,9 @@ computer science enthusiast.
         height="30"
         style="max-width: 100%"
     /></a>
-  </div>
-  <div>
+  </span>
+  <code>              </code>
+  <span>
     Books &nbsp;
     <a
       href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"
@@ -52,7 +55,7 @@ computer science enthusiast.
         height="30"
         style="max-width: 100%"
     /></a>
-  </div>
+  </span>
 </div>
 
 <details>

@@ -3,13 +3,7 @@
 I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
 computer science enthusiast.
 
-<div
-  style="
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    justify-items: center;
-  "
->
+<div class="grid" >
   <div style="grid-column-start: span 2">
     Personal Website &nbsp;
     <a href="http://alecandido.github.io" rel="nofollow"
@@ -58,6 +52,14 @@ computer science enthusiast.
     /></a>
   </div>
 </div>
+
+<style>
+  .grid = {
+      display: grid;
+      grid-template-columns: repeat(6, 1fr);
+      justify-items: center;
+  }
+</style>
 
 <details>
     <summary> <b> Current Position </b> </summary>

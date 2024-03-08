@@ -4,58 +4,58 @@ I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
 computer science enthusiast.
 
 <div align="center" >
-  <span>
+  <em>
     Personal Website &nbsp;
     <a href="http://alecandido.github.io" rel="nofollow"
       ><img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
-        height="30"
+        height="40"
         style="max-width: 100%"
     /></a>
-  </span>
+  </em>
   <code>            </code>
-  <span>
+  <em>
     Contact me &nbsp;
     <a href="mailto:candido.ale@gmail.com"
       ><img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
-        height="30"
+        height="40"
         style="max-width: 100%"
     /></a>
-  </span>
+  </em>
   <code>            </code>
-  <span>
+  <em>
     Work &nbsp;
     <a href="https://www.linkedin.com/in/alessandro-candido/" rel="nofollow"
       ><img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
-        height="30"
+        height="40"
         style="max-width: 100%"
     /></a>
-  </span>
+  </em>
 </div>
 <div align="center" >
-  <span>
+  <em>
     Anime &amp; Manga &nbsp;
     <a href="https://myanimelist.net/animelist/Annibale" rel="nofollow"
       ><img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png"
-        height="30"
+        height="40"
         style="max-width: 100%"
     /></a>
-  </span>
+  </em>
   <code>              </code>
-  <span>
+  <em>
     Books &nbsp;
     <a
       href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"
       rel="nofollow"
       ><img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png"
-        height="30"
+        height="40"
         style="max-width: 100%"
     /></a>
-  </span>
+  </em>
 </div>
 
 <details>

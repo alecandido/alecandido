@@ -3,8 +3,8 @@
 I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
 computer science enthusiast.
 
-<div class="grid" >
-  <div style="grid-column-start: span 2">
+<div align="center" >
+  <div>
     Personal Website &nbsp;
     <a href="http://alecandido.github.io" rel="nofollow"
       ><img
@@ -13,7 +13,7 @@ computer science enthusiast.
         style="max-width: 100%"
     /></a>
   </div>
-  <div style="grid-column-start: span 2">
+  <div>
     Contact me &nbsp;
     <a href="mailto:candido.ale@gmail.com"
       ><img
@@ -22,7 +22,7 @@ computer science enthusiast.
         style="max-width: 100%"
     /></a>
   </div>
-  <div style="grid-column-start: span 2">
+  <div>
     Work &nbsp;
     <a href="https://www.linkedin.com/in/alessandro-candido/" rel="nofollow"
       ><img
@@ -31,7 +31,9 @@ computer science enthusiast.
         style="max-width: 100%"
     /></a>
   </div>
-  <div style="grid-column-start: span 3">
+</div>
+<div align="center" >
+  <div>
     Anime &amp; Manga &nbsp;
     <a href="https://myanimelist.net/animelist/Annibale" rel="nofollow"
       ><img
@@ -40,7 +42,7 @@ computer science enthusiast.
         style="max-width: 100%"
     /></a>
   </div>
-  <div style="grid-column-start: span 3">
+  <div>
     Books &nbsp;
     <a
       href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"
@@ -52,14 +54,6 @@ computer science enthusiast.
     /></a>
   </div>
 </div>
-
-<style>
-  .grid = {
-      display: grid;
-      grid-template-columns: repeat(6, 1fr);
-      justify-items: center;
-  }
-</style>
 
 <details>
     <summary> <b> Current Position </b> </summary>

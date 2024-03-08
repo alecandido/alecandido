@@ -4,35 +4,35 @@ I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
 computer science enthusiast.
 
 <div align="center" >
-  <em>
-    Personal Website &nbsp;
-    <a href="http://alecandido.github.io" rel="nofollow"
-      ><img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
-        height="40"
-        style="max-width: 100%"
-    /></a>
-  </em>
+  <a href="http://alecandido.github.io" rel="nofollow"
+    <em>
+      Personal Website &nbsp;
+        ><img
+          src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
+          height="40"
+          style="max-width: 100%"
+    </em>
+  /></a>
   <code>            </code>
-  <em>
-    Contact me &nbsp;
-    <a href="mailto:candido.ale@gmail.com"
-      ><img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
-        height="40"
-        style="max-width: 100%"
-    /></a>
-  </em>
+  <a href="mailto:candido.ale@gmail.com"
+    <em>
+      Contact me &nbsp;
+        ><img
+          src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
+          height="40"
+          style="max-width: 100%"
+    </em>
+  /></a>
   <code>            </code>
-  <em>
-    Work &nbsp;
     <a href="https://www.linkedin.com/in/alessandro-candido/" rel="nofollow"
-      ><img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
-        height="40"
-        style="max-width: 100%"
-    /></a>
-  </em>
+    <em>
+      Work &nbsp;
+        ><img
+          src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
+          height="40"
+          style="max-width: 100%"
+    </em>
+  /></a>
 </div>
 <div align="center" >
   <em>
@@ -64,9 +64,25 @@ computer science enthusiast.
 ## Current Position
 
 ```yaml
+position: Research Fellow
+start_date: October, 2023
+institutions:
+  affiliation: CERN TH
+collaboration: Qibo
+```
+
+</details>
+
+<details>
+    <summary> <b> Experience </b> </summary>
+
+## Experience
+
+```yaml
 position: Assegnista INFN (post-doc)
 supervisor: S. Forte
 start_date: April, 2023
+end-date: September, 2023
 institutions:
   affiliation: INFN
 collaboration: NNPDF

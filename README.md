@@ -3,22 +3,61 @@
 I'm Alessandro Candido, a theoretical physicist working in HEP, and a coding and
 computer science enthusiast.
 
-- Personal Website &nbsp; <a href="http://alecandido.github.io"><img
-  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
-  height="30"/></a>
-- Contact me &nbsp; <a href="mailto:candido.ale@gmail.com"><img
-  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
-  height="30"/></a>
-- Work &nbsp; <a href="https://www.linkedin.com/in/alessandro-candido/"><img
-  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
-  height="30"/></a>
-- Anime & Manga &nbsp; <a href="https://myanimelist.net/animelist/Annibale"><img
-  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png"
-  height="30"/></a>
-- Books &nbsp; <a
-  href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"><img
-  src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png"
-  height="30"/></a>
+<div
+  style="
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    justify-items: center;
+  "
+>
+  <div style="grid-column-start: span 2">
+    Personal Website &nbsp;
+    <a href="http://alecandido.github.io" rel="nofollow"
+      ><img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
+        height="30"
+        style="max-width: 100%"
+    /></a>
+  </div>
+  <div style="grid-column-start: span 2">
+    Contact me &nbsp;
+    <a href="mailto:candido.ale@gmail.com"
+      ><img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
+        height="30"
+        style="max-width: 100%"
+    /></a>
+  </div>
+  <div style="grid-column-start: span 2">
+    Work &nbsp;
+    <a href="https://www.linkedin.com/in/alessandro-candido/" rel="nofollow"
+      ><img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
+        height="30"
+        style="max-width: 100%"
+    /></a>
+  </div>
+  <div style="grid-column-start: span 3">
+    Anime &amp; Manga &nbsp;
+    <a href="https://myanimelist.net/animelist/Annibale" rel="nofollow"
+      ><img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png"
+        height="30"
+        style="max-width: 100%"
+    /></a>
+  </div>
+  <div style="grid-column-start: span 3">
+    Books &nbsp;
+    <a
+      href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"
+      rel="nofollow"
+      ><img
+        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png"
+        height="30"
+        style="max-width: 100%"
+    /></a>
+  </div>
+</div>
 
 <details>
     <summary> <b> Current Position </b> </summary>
@@ -39,7 +78,6 @@ collaboration: NNPDF
   <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
   <a href="http://nnpdf.mi.infn.it/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/nnpdf_logo.png" height="30" alt="NNPDF" /> </a>
 </p>
-
 
 </details>
 

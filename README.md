@@ -70,6 +70,12 @@ institutions:
 collaboration: Qibo
 ```
 
+<p align="center">
+  <a href="https://home.cern/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/cern.svg" height="60" alt="CERN" /> </a>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
+  <a href="https://qibo.science/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/qibo.svg" height="30" alt="Qibo" /> </a>
+</p>
+
 </details>
 
 <details>

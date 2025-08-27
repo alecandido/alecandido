@@ -57,6 +57,8 @@ I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Compu
 <!--   </em> -->
 <!-- </div> -->
 
+<br/>
+
 <details>
     <summary> <b> Current Position </b> </summary>
 

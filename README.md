@@ -33,29 +33,29 @@ I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Compu
     /></a>
   </em>
 </div>
-<div align="center" >
-  <em>
-    Anime &amp; Manga &nbsp;
-    <a href="https://myanimelist.net/animelist/Annibale" rel="nofollow"
-      ><img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png"
-        height="40"
-        style="max-width: 100%"
-    /></a>
-  </em>
-  <code>              </code>
-  <em>
-    Books &nbsp;
-    <a
-      href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks"
-      rel="nofollow"
-      ><img
-        src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png"
-        height="40"
-        style="max-width: 100%"
-    /></a>
-  </em>
-</div>
+<!-- <div align="center" > -->
+<!--   <em> -->
+<!--     Anime &amp; Manga &nbsp; -->
+<!--     <a href="https://myanimelist.net/animelist/Annibale" rel="nofollow" -->
+<!--       ><img -->
+<!--         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/happy-face.png" -->
+<!--         height="40" -->
+<!--         style="max-width: 100%" -->
+<!--     /></a> -->
+<!--   </em> -->
+<!--   <code>              </code> -->
+<!--   <em> -->
+<!--     Books &nbsp; -->
+<!--     <a -->
+<!--       href="https://www.goodreads.com/review/list/120691874?ref=nav_mybooks" -->
+<!--       rel="nofollow" -->
+<!--       ><img -->
+<!--         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/books.png" -->
+<!--         height="40" -->
+<!--         style="max-width: 100%" -->
+<!--     /></a> -->
+<!--   </em> -->
+<!-- </div> -->
 
 <details>
     <summary> <b> Current Position </b> </summary>

@@ -65,8 +65,28 @@ I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Compu
 ## Current Position
 
 ```yaml
+position: Senior Quantum Software Engineer
+start_date: October, 2025
+institutions:
+  affiliation: Technology Innovation Institute
+collaboration: Qibo
+```
+
+<p align="center">
+  <a href="https://qibo.science/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/qibo.svg" height="50" alt="Qibo" /> </a>
+</p>
+
+</details>
+
+<details>
+    <summary> <b> Experience </b> </summary>
+
+## Experience
+
+```yaml
 position: Research Fellow
 start_date: October, 2023
+end_date: September, 2025
 institutions:
   affiliation: CERN TH
 collaboration: Qibo
@@ -77,13 +97,6 @@ collaboration: Qibo
   <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="40" />
   <a href="https://qibo.science/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/qibo.svg" height="50" alt="Qibo" /> </a>
 </p>
-
-</details>
-
-<details>
-    <summary> <b> Experience </b> </summary>
-
-## Experience
 
 ```yaml
 position: Assegnista INFN (post-doc)

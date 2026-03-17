@@ -74,6 +74,7 @@ collaboration: Qibo
 
 <p align="center">
   <a href="https://qibo.science/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/qibo.svg" height="50" alt="Qibo" /> </a>
+  <a href="https://tii.ae/"> <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/tii.svg" height="50" alt="TII" /> </a>
 </p>
 
 </details>

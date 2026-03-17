@@ -9,30 +9,30 @@ I'm Alessandro Candido, a physicist and software developer, working in Quantum C
       ><img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/world-icon.png"
         height="40"
-        style="max-width: 100%"
+        style="max-width: 100%; margin: 0 0 -12px 5px;"
     /></a>
   </em>
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="60" />
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="65" />
   <em>
     Contact me &nbsp;
     <a href="mailto:candido.ale@gmail.com"
       ><img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/mail-icon.png"
         height="40"
-        style="max-width: 100%"
+        style="max-width: 100%; margin: 0 0 -6px 6px;"
     /></a>
   </em>
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="60" />
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="90" />
   <em>
     Work &nbsp;
     <a href="https://www.linkedin.com/in/alessandro-candido/" rel="nofollow"
       ><img
         src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/linkedin.png"
         height="40"
-        style="max-width: 100%"
+        style="max-width: 100%; margin: 0 0 -6px 2px;"
     /></a>
   </em>
-  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="80" />
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="30" />
 </div>
 <!-- <div align="center" > -->
 <!--   <em> -->

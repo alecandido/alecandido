@@ -32,6 +32,7 @@ I'm Alessandro Candido, a physicist and software developer, working in Quantum C
         style="max-width: 100%"
     /></a>
   </em>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="80" />
 </div>
 <!-- <div align="center" > -->
 <!--   <em> -->

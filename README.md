@@ -1,6 +1,6 @@
 # Hi, I'm Alessandro <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="30"/><img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/psi-small.gif" height="50"/>
 
-I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Computing.
+I'm Alessandro Candido, a physicist and software developer, working in Quantum Computing.
 
 <div align="center" >
   <em>
@@ -12,7 +12,7 @@ I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Compu
         style="max-width: 100%"
     /></a>
   </em>
-  <code>            </code>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="60" />
   <em>
     Contact me &nbsp;
     <a href="mailto:candido.ale@gmail.com"
@@ -22,7 +22,7 @@ I'm Alessandro Candido, a theoretical physicist working in HEP and Quantum Compu
         style="max-width: 100%"
     /></a>
   </em>
-  <code>            </code>
+  <img src="https://raw.githubusercontent.com/AleCandido/AleCandido/master/assets/spacer.png" width="60" />
   <em>
     Work &nbsp;
     <a href="https://www.linkedin.com/in/alessandro-candido/" rel="nofollow"

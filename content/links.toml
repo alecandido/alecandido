@@ -1,0 +1,26 @@
+# The contact row under the intro, in order. Icons live in assets/icons/.
+
+[[link]]
+label = "Website"
+url = "https://annibale.dev"
+icon = "globe"
+
+[[link]]
+label = "Email"
+url = "mailto:candido.ale@gmail.com"
+icon = "mail"
+
+[[link]]
+label = "LinkedIn"
+url = "https://www.linkedin.com/in/alessandro-candido/"
+icon = "linkedin"
+
+[[link]]
+label = "ORCID"
+url = "https://orcid.org/0000-0002-1405-3205"
+icon = "orcid"
+
+[[link]]
+label = "INSPIRE"
+url = "https://inspirehep.net/authors/1802044"
+icon = "inspire"

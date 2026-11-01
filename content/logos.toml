@@ -1,0 +1,57 @@
+# Logo catalogue. Paths are relative to assets/; `dark` is optional and is
+# served to readers using GitHub's dark themes. Heights are tuned so that the
+# marks look the same size next to each other.
+
+[logo.tii]
+alt = "Technology Innovation Institute"
+url = "https://www.tii.ae/quantum"
+light = "logos/tii.svg"
+dark = "logos/tii-dark.svg"
+height = 60
+
+[logo.qibo]
+alt = "Qibo"
+url = "https://qibo.science/"
+light = "logos/qibo.svg"
+dark = "logos/qibo-dark.svg"
+height = 44
+
+[logo.cern]
+alt = "CERN"
+url = "https://theory.cern/"
+light = "logos/cern.svg"
+height = 56
+
+[logo.infn]
+alt = "INFN"
+url = "https://www.mi.infn.it/"
+light = "logos/infn.svg"
+dark = "logos/infn-dark.svg"
+height = 44
+
+[logo.nnpdf]
+alt = "NNPDF"
+url = "https://nnpdf.mi.infn.it/"
+light = "logos/nnpdf.png"
+height = 36
+
+[logo.unimi]
+alt = "Università degli Studi di Milano"
+url = "https://www.unimi.it/"
+light = "logos/unimi.png"
+dark = "logos/unimi-dark.png"
+height = 52
+
+[logo.unipi]
+alt = "Università di Pisa"
+url = "https://www.unipi.it/"
+light = "logos/unipi.svg"
+dark = "logos/unipi-dark.svg"
+height = 34
+
+[logo.sns]
+alt = "Scuola Normale Superiore"
+url = "https://www.sns.it/"
+light = "logos/sns.svg"
+dark = "logos/sns-dark.svg"
+height = 56

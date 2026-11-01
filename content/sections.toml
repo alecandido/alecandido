@@ -1,0 +1,30 @@
+# Sections of the README, in order. Each entry is a file in entries/ (YAML
+# files are shown verbatim in a code block, Markdown ones are included as
+# they are), optionally followed by a row of logos from logos.toml.
+#
+# A section without `title` has no heading; `collapsible = false` renders it
+# inline instead of inside a <details> block.
+
+[[section]]
+collapsible = false
+entries = [{ file = "tii.yaml", logos = ["tii", "qibo"] }]
+
+[[section]]
+title = "Experience"
+entries = [
+  { file = "cern.yaml", logos = ["cern", "qibo"] },
+  { file = "infn.yaml", logos = ["infn", "nnpdf"] },
+]
+
+[[section]]
+title = "Education"
+entries = [
+  { file = "phd.yaml", logos = ["unimi", "nnpdf"] },
+  { file = "sns.yaml", logos = ["sns"] },
+  { file = "msc.yaml" },
+  { file = "bsc.yaml", logos = ["unipi"] },
+]
+
+[[section]]
+title = "Software"
+entries = [{ file = "software.md" }]

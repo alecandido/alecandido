@@ -6,8 +6,9 @@
 
 Standard library only (Python >= 3.11, for tomllib). What goes where:
 
-    content/header.md       title and intro; `{{ banner }}` and `{{ links }}`
-                            mark where the animation and the contact row go
+    content/header.md       title and intro; `{{ banner <file> }}` and `{{ links }}`
+                            mark where the animation (a file in assets/) and
+                            the contact row go
     content/links.toml      the contact row: label, url, icon
     content/sections.toml   the sections, in order, each with its entries
     content/entries/*.yaml  one entry each, shown verbatim in a code block
@@ -24,6 +25,7 @@ from __future__ import annotations
 
 import os
 import pathlib
+import re
 import sys
 import tomllib
 
@@ -64,10 +66,16 @@ def linked(inner: str, url: str | None) -> str:
     return f'<a href="{url}">{inner}</a>' if url else inner
 
 
-def banner() -> str:
+BANNER = re.compile(r"\{\{\s*banner(?:\s+(\S+))?\s*\}\}")
+DEFAULT_BANNER = "psi-well.svg"
+
+
+def banner(match: re.Match) -> str:
+    """`{{ banner psi-well.svg }}`: an animation from assets/, full width."""
+    name = match.group(1) or DEFAULT_BANNER
     return (
         '<p align="center">\n'
-        f'  <img src="{ASSETS}psi.svg" width="100%" alt="A quantum wavepacket, oscillating">\n'
+        f'  <img src="{ASSETS}{name}" width="100%" alt="A quantum wavepacket, oscillating">\n'
         "</p>"
     )
 
@@ -115,7 +123,7 @@ def section(spec: dict, catalogue: dict) -> str:
 
 def build() -> str:
     catalogue = toml("logos.toml")["logo"]
-    header = read("header.md").replace("{{ banner }}", banner()).replace("{{ links }}", links())
+    header = BANNER.sub(banner, read("header.md")).replace("{{ links }}", links())
     parts = [NOTICE, header]
     parts += [section(s, catalogue) for s in toml("sections.toml")["section"]]
     if (CONTENT / "footer.md").is_file():

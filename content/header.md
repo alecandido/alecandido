@@ -2,6 +2,6 @@
 
 I'm Alessandro Candido, a physicist and software developer, working in Quantum Computing.
 
-{{ banner }}
+{{ banner psi-well.svg }}
 
 {{ links }}

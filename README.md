@@ -5,7 +5,7 @@
 I'm Alessandro Candido, a physicist and software developer, working in Quantum Computing.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alecandido/alecandido/master/assets/psi.svg" width="100%" alt="A quantum wavepacket, oscillating">
+  <img src="https://raw.githubusercontent.com/alecandido/alecandido/master/assets/psi-well.svg" width="100%" alt="A quantum wavepacket, oscillating">
 </p>
 
 <p align="center">

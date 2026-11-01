@@ -19,7 +19,7 @@ import sys
 SYSTEMS = {
     # weights of the states n = 1, 2, 3, ... (well) or n = 0, 1, 2, ... (oscillator),
     # and whether to dash every component or only the total psi
-    "well": {"weights": [0.55, 0.62, 0.42, 0.30], "components": True},
+    "well": {"weights": [0.62, 0.78], "components": True},
     "oscillator": {"weights": [0.50, 0.58, 0.50, 0.36, 0.26, 0.14], "components": False},
 }
 WIDTH, HEIGHT = 1200, 200  # viewBox
